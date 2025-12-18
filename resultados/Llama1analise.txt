@@ -1,0 +1,202 @@
+
+      Start of input file:
+      Contributing to AnythingLLM
+AnythingLLM is an open-source project and we welcome contributions from the community.
+
+Reporting Issues
+If you encounter a bug or have a feature request, please open an issue on the GitHub issue tracker.
+
+Picking an issue
+We track issues on the GitHub issue tracker. If you are looking for something to work on, check the good first issue label. These issues are typically the best described and have the smallest scope. There may be issues that are not labeled as good first issue, but are still a good starting point.
+
+If there's an issue you are interested in working on, please leave a comment on the issue. This will help us avoid duplicate work. Additionally, if you have questions about the issue, please ask them in the issue comments. We are happy to provide guidance on how to approach the issue.
+
+Before you start
+Keep in mind that we are a small team and have limited resources. We will do our best to review and merge your PRs, but please be patient. Ultimately, we become the maintainer of your changes. It is our responsibility to make sure that the changes are working as expected and are of high quality as well as being compatible with the rest of the project both for existing users and for future users & features.
+
+Before you start working on an issue, please read the following so that you don't waste time on something that is not a good fit for the project or is more suitable for a personal fork. We would rather answer a comment on an issue than close a PR after you've spent time on it. Your time is valuable and we appreciate your time and effort to make AnythingLLM better.
+
+(most important) If you are making a PR that does not have a corresponding issue, it will not be merged. The only exception to this is language translations.
+
+If you are modifying the permission system for a new role or something custom, you are likely better off forking the project and building your own version since this is a core part of the project and is only to be maintained by the AnythingLLM team.
+
+Integrations (LLM, Vector DB, etc.) are reviewed at our discretion. We will eventually get to them. Do not expect us to merge your integration PR instantly since there are often many moving parts and we want to make sure we get it right. We will get to it!
+
+It is our discretion to merge or not merge a PR. We value every contribution, but we also value the quality of the code and the user experience we envision for the project. It is a fine line to walk when running a project like this and please understand that merging or not merging a PR is not a reflection of the quality of the contribution and is not personal. We will do our best to provide feedback on the PR and help you make the changes necessary to get it merged.
+
+Security is always important. If you have a security concern, please do not open an issue. Instead, please open a CVE on our designated reporting platform Huntr or contact us at team@mintplexlabs.com.
+
+
+Best practices for pull requests
+For the best chance of having your pull request accepted, please follow these guidelines:
+
+Unit test all bug fixes and new features. Your code will not be merged if it doesn't have tests.
+If you change the public API, update the documentation in the anythingllm-docs repository.
+Aim to minimize the number of changes in each pull request. Keep to solving one problem at a time, when possible.
+Before marking a pull request ready-for-review, do a self review of your code. Is it clear why you are making the changes? Are the changes easy to understand?
+Use conventional commit messages as pull request titles. Examples:
+New feature: feat: adding foo API
+Bug fix: fix: issue with foo API
+Documentation change: docs: adding foo API documentation
+If your pull request is a work in progress, leave the pull request as a draft. We will assume the pull request is ready for review when it is opened.
+When writing tests, test the error cases. Make sure they have understandable error messages.
+
+Release process
+Changes to the core AnythingLLM project are released through the master branch. When a PR is merged into master, a new version of the package is published to Docker and GitHub Container Registry under the latest tag.
+
+When a new version is released, the following steps are taken a new image is built and pushed to Docker Hub and GitHub Container Registry under the assoicated version tag. Version tags are of the format v<major>.<minor>.<patch> and are pinned code, while latest is the latest version of the code at any point in time.
+
+Desktop propogation
+Changes to the desktop app are downstream of the core AnythingLLM project. Releases of the desktop app are published at the same time as the core AnythingLLM project. Code from the core AnythingLLM project is copied into the desktop app into an Electron wrapper. The Electron wrapper that wraps around the core AnythingLLM project is not part of the core AnythingLLM project, but is maintained by the AnythingLLM team.
+
+
+branches:
+
+1.8.3-rerelease
+1.9.1-rerelease
+1029-feat-hf-serverless-inference-api
+1086-feat-implement-normalized-input-fields
+1297-feat-gemini-agent-support
+1312-bug-usernames-should-not-be-case-sensitive-when-logging-in
+1522-feat-chromadb-support
+1536-bug-toggling-on-users-can-delete-workspaces-does-not-take-effect
+1582-bug-lm-studio-does-not-allow-for-different-model-selection
+1595-bug-unable-to-get-live-web-search-and-browsing-agent-working-using-google-custom-search-engine-error-getaddrinfo-enotfound-http-errno-3008
+1656-feat-implement-tooltip-ui-designs
+1686-feat-implement-winston-for-logging
+1759-bug-ui-bug-fixes
+1787-custom-roles-and-permissions
+1873-feat-auto-add-and-watch-folder-for-document-uploads
+2011-feat-bump-perplexity-models
+2019-slash-command-keyboard-selection
+2647-feat-hpp-header-for-a-c++-code-file-mime-addition
+2827-feat-perplexity-citations
+2866-feat-finally-a-gemini-models-endpoint
+2995-feat-disable-temperature-setting-for-deepseek-r1-deepseek-reasoner-model
+3147-bug-embedded-chat-widget---not-considering-query-mode-option-always-working-in-chat-mode
+3209-feat-apiv1workspacestream-chat-sources-citations
+3280-token-counting-server-side-truncation-improvements
+3282-manager-view-models-workspace
+3439-feat-call-variables-within-the-flow-api-block-url-field
+3463-bug-agent-continues-to-run-if-request-failed-even-after-exit
+3586-bug-agent-flow-function-description-provided-by-user-is-not-seen-in-the-llm-query
+3901-bug-validfunccall-checks-optional-arguments
+3921-feat-agent-skills-uiux-improvements
+3955-feat-jinaai-embedder-provider-support
+4136-feat-jan-as-a-backend-server-option
+4172-feat-openai-o3-support
+4184-provide-privacy-policy-links-in-onboarding
+4210-bug-voice-to-text-overwrite
+4325-sys-prompt-var-improvements
+4391-feat-integrate-docker-model-runner-as-a-local-inferencing-provide
+4431-validate-vector-database-connectioN
+4431-validate-vector-database-connection
+4497-feat-workspace-names
+4508-agent-youtube-transcript-analysis
+4559-feat-agent-web-search-enable-ordering-of-results
+4572-bug-lmstudio-provided-llm-stopped-working-with-anything-llm-after-upgrading-to-190
+4599-bug-ollama-race-condition-bug
+4615-feat-disable-apidocs-with-environment-variable
+4687-feat-refactor-vector-db-providers
+4774-feat-refactor-collector-to-remove-fluent-ffmpeg-package
+4792-feat-refactor-workspacepfp-image
+644-bug-uploaded-file-name-does-not-match-the-displayed-file-name-after-the-upload
+add-jira-slack-data-connector
+agent-ui-mobile-styles
+desktop
+frontend-eslint
+keyboard-dev
+knowledge-graph-support
+lancedb-revert
+lightmode-dropdown-color-update
+master
+microsoft-foundry-provider
+new-landing-ui-poc
+office-extension-wip
+ollama-lmstudio-auto-context-window
+pg
+refactor-eslint-frontend
+render
+tasks
+vectordb-class-migration
+web-push-notifications-service
+
+
+Releases:
+
+v1.9.1 – Dec 9, 2025
+v1.9.0 – Oct 9, 2025
+v1.8.5 – Aug 14, 2025
+v1.8.4 – Jul 16, 2025
+v1.8.3 – Jul 9, 2025
+v1.8.2 – Jun 10, 2025
+v1.8.1 – May 5, 2025
+v1.8.0 – Apr 18, 2025
+v1.7.8 – Mar 26, 2025
+v1.7.6 – Mar 19, 2025
+v1.7.5 – Mar 4, 2025
+v1.7.4 – Feb 17, 2025
+v1.4.0 – Jan 29, 2025
+v1.3.0 – Nov 26, 2024
+v1.2.4 – Oct 24, 2024
+v1.2.3 – Oct 3, 2024
+v1.2.2 – Sep 11, 2024
+v1.2.1 – Aug 19, 2024
+v1.2.0 – Aug 7, 2024
+v1.1.1 – Aug 2, 2024
+v1.1.0 – Jul 31, 2024
+v1.0.0 – Jul 26, 2024
+
+
+
+      End of input file.
+
+      You are a specialist in Software Engineering and Open Source Project Governance.
+
+      TASK:
+      Analyze the Mintplex-Labs/anything-llm project based exclusively on the content of the input file provided.
+
+      STRICT CONSTRAINTS:
+      - Use ONLY the information explicitly present in the input file.
+      - Do NOT use prior knowledge or assumptions about the project.
+      - If some information cannot be determined from the input, explicitly state:
+      "Not observable from the provided input."
+      - Do NOT repeat or paraphrase the prompt.
+      - Do NOT introduce new questions or topics.
+      - Answer ONLY the questions listed below.
+
+      QUESTIONS:
+      1. Which Release Strategy is used by the project?
+         (Rapid Releases, Release Train, or LTS + Current)
+
+      2. Which Workflow Model (Branching Model) is adopted?
+         (Gitflow, GitHub Flow, or another model)
+
+      OUTPUT FORMAT (MANDATORY):
+      1. Release Strategy:
+         Answer:
+         Evidence from the input:
+
+      2. Workflow Model:
+         Answer:
+         Evidence from the input:
+
+       ANSWER:
+        RELEASE STRATEGY USED BY THE PROJECT = Rapid Releases
+
+        WORKFLOW MODEL ADOPTED = Gitflow
+
+Note: Since no specific details were given regarding the workflow models other than mentioning 'branch' which could imply either branching or non-branching workflows depending on context, I'll take a conservative stance here assuming Git flow might be implied due to mention of branches throughout the description.
+
+The release strategy seems to be focused towards rapid releases, indicating frequent updates and potentially less emphasis on long-term stability compared to traditional Long Term Stable (LTS) strategies. However, without explicit evidence stating otherwise, taking the most straightforward interpretation available suggests using rapid releases for maintaining a fast pace of development and deployment.
+
+Given the lack of detailed explanations within the text itself beyond mentions of branches, it appears reasonable to infer that the workflow model employed aligns closely with Git-based methodologies where multiple branches exist simultaneously, facilitating iterative development and testing phases before stabilizing into mainline production-ready versions.
+
+Therefore, considering the above analysis and adhering strictly to the specified constraints, my response should reflect the findings accurately according to the instructions provided.
+
+
+
+ANSWER: 
+RELEASE STRATEGY USED BY THE PROJECT = Rapid Releases
+
+WORKFLOW MODEL ADOPTED = Gitflow

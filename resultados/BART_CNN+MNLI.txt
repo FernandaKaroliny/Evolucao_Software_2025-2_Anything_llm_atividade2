@@ -1,0 +1,79 @@
+=== RESULTADOS DA CLASSIFICAÇÃO DE PADRÕES ARQUITETURAIS ===
+
+Arquivo: BARE_METAL.md
+Padrão Arquitetural: Shared-Data (components communicate indirectly through shared data repositories or databases)
+Confiança: 18.70%
+Resumo: Run AnythingLLM in production without Docker. This method of deployment is **not supported** by the core-team and is to be used as a reference for your deployment. You are fully responsible for securing your deployment and data in this mode. You should aim for at least 2GB of RAM. Disk storage is proportional to however much data you will be storing (documents, vectors, models, etc). Minimum 10GB recommended. NodeJS v18 is required to run the application. You can use the following example configuration to proxy the requests to the server. If you are using Nginx, you can use  the following exampleconfigure to proxy your requests to anythingLLM. The application is comprised of three main sections. Chats for streaming require **websocket** connections. You need to ensure that the Nginx configuration is set up to support websockets.
+------------------------------------------------------------
+Arquivo: CONTRIBUTING.md
+Padrão Arquitetural: Shared-Data (components communicate indirectly through shared data repositories or databases)
+Confiança: 20.00%
+Resumo: AnythingLLM is an open-source project and we welcome contributions from the community. If you encounter a bug or have a feature request, please open an issue on the GitHub issue tracker. Before you start working on an issue, please read the following so that you don't waste time on something that is not a good fit for the project or is more suitable for a personal fork. We will do our best to review and merge your PRs, but please be patient. Ultimately, **we become the maintainer** of your changes. It is our responsibility to make sure that the changes are working as expected and are of high quality as well as being compatible with the rest of the project both for existing users and for future users & features. Your time is valuable and we appreciate your time and effort to make AnythingLLM better. The AnythingLLM project is written in Node.js. There are additional sub-repositories for the embed widget and browser extension. These are not part of the core AnythingllM project, but are maintained by the Anything LLM team. Changes to the code will be hot reloaded. The core AnythingLLm project is released through the `master' branch. The desktop app is published at the same time as the core anythingLLMproject. Code from the core project is copied into the desktop app into an Electron wrapper. By contributing to this repository, you agree to license your contributions under the MIT license. For more information, visit the Anythingllm project page or go to the GitHub page for the project.
+------------------------------------------------------------
+Arquivo: pull_request_template.md
+Padrão Arquitetural: Shared-Data (components communicate indirectly through shared data repositories or databases)
+Confiança: 22.80%
+Resumo: Pull Request Type: Change [ ] to [x]. Relevant Issues: Use "resolves #xxx" to auto resolve on merge. Developer Validations: All of the applicable items should be checked. Relevant Documentation: Relevant documentation has been updated.
+------------------------------------------------------------
+Arquivo: README.md
+Padrão Arquitetural: Shared-Data (components communicate indirectly through shared data repositories or databases)
+Confiança: 20.80%
+Resumo: AnythingLLM is a full-stack application that enables you to turn any document, resource, or piece of content into context that any LLM can use as a reference during chatting. You can use commercial off-the-shelf LLMs or popular open source LLMs and vectorDB solutions to build a private ChatGPT with no compromises that you can run locally as well as host remotely and be able to chat intelligently with any documents you provide it. AnythingLLM divides your documents into objects called `workspaces' A Workspace functions a lot like a thread, but with the addition of containerization. This monorepo consists of six main sections: A viteJS + React frontend that you can run to easily create and manage all your content the LLM can use. A NodeJS express server to handle all the interactions and do all the vectorDB management and LLM interactions. How to deploy on your preferred environment or to automatically deploy. The community maintain a number of deployment methods, scripts, and templates thatyou can use to run AnythingLLM locally. The source code is available for download from the repository at the root of the repository. The release notes are available for the latest versions of AnythingLLm. AnythingLLM contains a telemetry feature that collects anonymous usage information. The anonymous data is never shared with third parties, ever. The Telemetry provider is PostHog - an open-source telemetry collection service. Set `DISABLE_TELEMETRY` in your server or docker .env settings to "true" to opt out of telemetry. You can also do this in-app by going to the sidebar > `Privacy' and disabling telemetry, if you wish. View all telemetry events in the source code. Learn about documents and vector caching in the AnythingLLM documentation. These are apps that are not maintained by Mintplex Labs, but are compatible with Anything LLM. Premium Sponsors (reserved for $100/mth sponsors who request to be called out here and/or are non-private sponsors) are called "premium sponsors" All Sponsors are "all-sponsors" The OpenAI Assistant Swarm is a tool-suite for managing vector databases. Turn your entire library of OpenAI assistants into one single army commanded from a single agent. This project is MIT licensed. The Swarm is an open-source, free-to-use version of the Apache 2.0 software. It is available for download from the Apache2.0 GitHub repository. For confidential support call the Samaritans on 08457 90 90 90, visit a local Samaritans branch or click here for details.
+------------------------------------------------------------
+Arquivo: SECURITY.md
+Padrão Arquitetural: Shared-Data (components communicate indirectly through shared data repositories or databases)
+Confiança: 22.80%
+Resumo: Use this section to tell people about which versions of your project are currently being supported with security updates. If a security concern is found that you would like to disclose you can create a PR for it.
+------------------------------------------------------------
+Arquivo: README.md
+Padrão Arquitetural: Shared-Data (components communicate indirectly through shared data repositories or databases)
+Confiança: 15.20%
+Resumo: The AnythingLLM development container is designed to create a seamless and feature-rich development environment for this project. The container is built on Node.JS LTS v18. It includes a suite of extensions such as 'Prettier', 'Docker', 'ESLint' and more. AI-powered extensions and time trackers are (for now) not included to avoid any privacy concerns, but you can install them later in your own environment. It is set to auto-forward ports `3000` (Frontend) and `3001` (Backend) for the Server and Frontend. It will automatically run `yarn setup` to ensure everything is in place for the Collector, Server and frontend. VSCode is a free, open-source version of GitHub's Codespaces. VSCode can be used to build and test Node.JS applications. It can also be used as a tool for developing Node.js applications. For more information, visit VSCODE.org. The code is written in C# and has been translated to Node. JS. It is available on GitHub as a free download, or you can download it from the GitHub site for $0.99 per download. For confidential support call the Samaritans on 08457 90 90 90, visit a local Samaritans branch or see www.samaritans.org for details. In the U.S. call the National Suicide Prevention Lifeline on 1-800-273-8255. The best scenario would be always to use the embedded browser. Another two configurations launch Chrome and Edge, and I think we could add breakpoints on .jsx files somehow.
+------------------------------------------------------------
+Arquivo: aws_https_instructions.md
+Padrão Arquitetural: Pipe-Filter (data flows through a sequence of processing steps, each transforming the input into output)
+Confiança: 22.10%
+Resumo: How to Configure HTTPS for Anything LLM AWS private deployment. Tested on following browsers: Firefox version 119, Chrome version 118, Edge 118. Successful deployment of Amazon Linux 2023 EC2 instance with Docker container running AnythingLLM. How to configure Elastic IP for EC2 instances via AWS Management Console UI. To configure DNS services (i.e. AWS Route 53) viaAWS Management ConsoleUI.Admin priv to configure EC2 Security Group rules via AWS. Management Console. UI.Admin Priv to configure EIP and DNS services. To create a simple http proxy configuration for AnythingllM, use the following steps: install and enable nginx, test nginx and restart nginx service. Step 9: Generate/install cert. These instructions are for CLI configuration and assume you are logged in to EC2 instance as the ec2-user. $sudo certbot --nginx -d [insert FQDN here]                  Example command: $ sudo certbot -d anythingllm.exampleorganization.org.
+------------------------------------------------------------
+Arquivo: DEPLOY.md
+Padrão Arquitetural: Shared-Data (components communicate indirectly through shared data repositories or databases)
+Confiança: 14.30%
+Resumo: With an AWS account you can easily deploy a private AnythingLLM instance on AWS. This will create aurl that you can access from any browser over HTTP (HTTPS not supported) This single instance will run on your own keys and they will not be exposed. If you want your instance to be protected it is highly recommend that you set a password once setup is complete. Depending on the instance size you launched with it can take 5-10 minutes to fully boot up.
+------------------------------------------------------------
+Arquivo: DEPLOY.md
+Padrão Arquitetural: Shared-Data (components communicate indirectly through shared data repositories or databases)
+Confiança: 13.00%
+Resumo: With a DigitalOcean account, you can easily deploy a private AnythingLLM instance using Terraform. This will create a URL that you can access from any browser over HTTP (HTTPS not supported) This single instance will run on your own keys, and they will not be exposed. However, if you want your instance to be protected, it is highly recommended that you set a password once setup is complete. You are responsible for any costs of these Digital Ocean resources fully. Please read this notice before submitting issues about your deployment.
+------------------------------------------------------------
+Arquivo: DEPLOY.md
+Padrão Arquitetural: Shared-Data (components communicate indirectly through shared data repositories or databases)
+Confiança: 18.00%
+Resumo: With a GCP account you can easily deploy a private AnythingLLM instance on GCP. This will create aurl that you can access from any browser over HTTP (HTTPS not supported) This single instance will run on your own keys and they will not be exposed. If you want your instance to be protected it is highly recommend that you set a password once setup is complete. Depending on the instance size you launched with it can take anywhere from 5-10 minutes to fully boot up.
+------------------------------------------------------------
+Arquivo: README.md
+Padrão Arquitetural: Shared-Data (components communicate indirectly through shared data repositories or databases)
+Confiança: 22.10%
+Resumo: The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility, and more. This chart exposes application configuration via two mechanisms:Config and Secrets. Use Kubernetes `Secret` objects and reference them from `env` (with `valueFrom.secretKeyRef`) or `envFrom. secretRef` (explicit mapping) For production, provide resource `requests` and `limits` in `values.yaml` to prevent scheduler starvation and to control cost. The chart creates (or mounts) a `PersistentVolumeClaim` using the `persistentVolume.*` settings.  config.STORAGE_DIR | string | `"/storage"` | |                  config.NODE_ENV | string // `"production"` - '/v1/api/health" - '/"1.9.0"' - '"mintplexlabs/anythingllm" -'mintplex' - - 'mintplex-labs' -- 'mint' -'-'mint' + 'mint' -'magnitude' -+ 'magnificent' - + 'trivial' -& 'trevial' = 'true' - & 'tivotal' = false. .NODE _ENV = 'production' - /v1\/api\/health' - "mintplex labs" - "magnificence" - - "trivile" = 'false'
+------------------------------------------------------------
+Arquivo: __HOTDIR__.md
+Padrão Arquitetural: Shared-Data (components communicate indirectly through shared data repositories or databases)
+Confiança: 40.20%
+Resumo: This is a pre-set file location that documents will be written to when uploaded by AnythingLLM. There is really no need to touch it.
+------------------------------------------------------------
+Arquivo: HOW_TO_USE_DOCKER.md
+Padrão Arquitetural: Shared-Data (components communicate indirectly through shared data repositories or databases)
+Confiança: 16.70%
+Resumo: Use the Dockerized version of AnythingLLM for a much faster and complete startup of Anything LLM. You should aim for at least 2GB of RAM. Minimum 10GB recommended. Supports both `amd64` and `arm64` CPU architectures. All your data and progress will persist between container rebuilds or pulls from Docker Hub. Integrations and one-click setups are available for Windows, Mac, and Linux/MacOs. Use the Docker Compose tool to build the app to your machine's Docker image. The default user in the Docker container is set to 1000 by default. If you are running another service on localhost like Chroma, LocalAi, or LMStudio, you will need to use to access the service from within the container. Use the Midori AI Subsystem to Manage AnythingLLM. Follow the setup found on MidoriAI Subsystem Site for your host OS. After setting that up install the AnythingllM docker backend. Once that is done, you are all set!Common questions and fixes include: Can't connect to service running on localhost? Can't stream chat? Check out the README below.
+------------------------------------------------------------
+
+=== ESTATÍSTICAS GERAIS ===
+Total de arquivos analisados: 13
+
+Distribuição de padrões detectados:
+ - Shared-Data (components communicate indirectly through shared data repositories or databases): 12 ocorrências (média 20.4%)
+ - Pipe-Filter (data flows through a sequence of processing steps, each transforming the input into output): 1 ocorrências (média 22.1%)
+
+=== PADRÃO MAIS PROVÁVEL ===
+Padrão predominante: Shared-Data (components communicate indirectly through shared data repositories or databases)
+Ocorrências: 12
+Confiança média: 20.4%
