@@ -1,0 +1,121 @@
+=== CLASSIFICAÇÃO  ===
+
+📥 RESUMO DO TEXTO ANALISADO
+branches:
+1.8.3-rerelease
+1.9.1-rerelease
+1029-feat-hf-serverless-inference-api
+1086-feat-implement-normalized-input-fields
+1297-feat-gemini-agent-support
+1312-bug-usernames-should-not-be-case-sensitive-when-logging-in
+1522-feat-chromadb-support
+1536-bug-toggling-on-users-can-delete-workspaces-does-not-take-effect
+1582-bug-lm-studio-does-not-allow-for-different-model-selection
+1595-bug-unable-to-get-live-web-search-and-browsing-agent-working-using-google-custom-search-engine-error-getaddrinfo-enotfound-
+1656-feat-implement-tooltip-ui-designs
+1686-feat-implement-winston-for-logging
+1759-bug-ui-bug-fixes
+1787-custom-roles-and-permissions
+1873-feat-auto-add-and-watch-folder-for-document-uploads
+2011-feat-bump-perplexity-models
+2019-slash-command-keyboard-selection
+2647-feat-hpp-header-for-a-c++-code-file-mime-addition
+2827-feat-perplexity-citations
+2866-feat-finally-a-gemini-models-endpoint
+2995-feat-disable-temperature-setting-for-deepseek-r1-deepseek-reasoner-model
+3147-bug-embedded-chat-widget---not-considering-query-mode-option-always-working-in-chat-mode
+3209-feat-apiv1workspacestream-chat-sources-citations
+3280-token-counting-server-side-truncation-improvements
+3282-manager-view-models-workspace
+3439-feat-call-variables-within-the-flow-api-block-url-field
+3463-bug-agent-continues-to-run-if-request-failed-even-after-exit
+3586-bug-agent-flow-function-description-provided-by-user-is-not-seen-in-the-llm-query
+3901-bug-validfunccall-checks-optional-arguments
+3921-feat-agent-skills-uiux-improvements
+3955-feat-jinaai-embedder-provider-support
+4136-feat-jan-as-a-backend-server-option
+4172-feat-openai-o3-support
+4184-provide-privacy-policy-links-in-onboarding
+4210-bug-voice-to-text-overwrite
+4325-sys-prompt-var-improvements
+4391-feat-integrate-docker-model-runner-as-a-local-inferencing-provide
+4431-validate-vector-database-connectioN
+4431-validate-vector-database-connection
+4497-feat-workspace-names
+4508-agent-youtube-transcript-analysis
+4559-feat-agent-web-search-enable-ordering-of-results
+4572-bug-lmstudio-provided-llm-stopped-working-with-anything-llm-after-upgrading-to-190
+4599-bug-ollama-race-condition-bug
+4615-feat-disable-apidocs-with-environment-variable
+4687-feat-refactor-vector-db-providers
+4774-feat-refactor-collector-to-remove-fluent-ffmpeg-package
+4792-feat-refactor-workspacepfp-image
+644-bug-uploaded-file-name-does-not-match-the-displayed-file-name-after-the-upload
+add-jira-slack-data-connector
+agent-ui-mobile-styles
+desktop
+frontend-eslint
+keyboard-dev
+knowledge-graph-support
+lancedb-revert
+lightmode-dropdown-color-update
+master
+microsoft-foundry-provider
+new-landing-ui-poc
+office-extension-wip
+ollama-lmstudio-auto-context-window
+pg
+refactor-eslint-frontend
+render
+tasks
+vectordb-class-migration
+web-push-notifications-service
+Releases:
+v1.9.1 – Dec 9, 2025
+v1.9.0 – Oct 9, 2025
+v1.8.5 – Aug 14, 2025
+v1.8.4 – Jul 16, 2025
+v1.8.3 – Jul 9, 2025
+v1.8.2 – Jun 10, 2025
+v1.8.1 – May 5, 2025
+v1.8.0 – Apr 18, 2025
+v1.7.8 – Mar 26, 2025
+v1.7.6 – Mar 19, 2025
+v1.7.5 – Mar 4, 2025
+v1.7.4 – Feb 17, 2025
+v1.4.0 – Jan 29, 2025
+v1.3.0 – Nov 26, 2024
+v1.2.4 – Oct 24, 2024
+v1.2.3 – Oct 3, 2024
+v1.2.2 – Sep 11, 2024
+v1.2.1 – Aug 19, 2024
+v1.2.0 – Aug 7, 2024
+v1.1.1 – Aug 2, 2024
+v1.1.0 – Jul 31, 2024
+v1.0.0 – Jul 26, 2024
+
+📦 ESTRATÉGIA DE RELEASE
+Resultado principal: Rolling Release (updates are deployed incrementally across servers or users without downtime, replacing old versions progressively)
+Confiança: 21.84%
+
+Ranking completo:
+ 1º Rolling Release (updates are deployed incrementally across servers or users without downtime, replacing old versions progressively) — 21.8%
+ 2º Scheduled Releases (software is released at predefined time intervals, such as weekly, monthly, or at fixed calendar dates) — 15.6%
+ 3º Big Bang Release (a large set of features is released simultaneously in a single major deployment event) — 15.5%
+ 4º Canary Release (a new version is gradually rolled out to a small subset of users to monitor behavior before full deployment) — 13.1%
+ 5º Continuous Deployment (every code change that passes automated tests is automatically deployed to production without manual approval) — 12.2%
+ 6º Blue-Green Deployment (two identical production environments are maintained, allowing instant traffic switch between old and new versions) — 12.0%
+ 7º Continuous Delivery (code is continuously integrated and tested, remaining ready for deployment at any time, but releases require a manual decision) — 9.8%
+
+🔁 FLUXO DE TRABALHO
+Resultado principal: GitHub Flow (a lightweight workflow based on a single main branch with short-lived feature branches and pull requests)
+Confiança: 24.01%
+
+Ranking completo:
+ 1º GitHub Flow (a lightweight workflow based on a single main branch with short-lived feature branches and pull requests) — 24.0%
+ 2º Feature Branch Workflow (each new feature or change is developed in an isolated branch and merged into the main branch after review) — 21.0%
+ 3º GitLab Flow (extends GitHub Flow by introducing environment-based or release-based branching strategies) — 20.7%
+ 4º Git Flow (uses multiple long-lived branches such as main, develop, feature, release, and hotfix to manage parallel development and releases) — 18.9%
+ 5º Trunk-Based Development (developers commit small, frequent changes directly to a shared main branch, relying on feature flags and continuous integration) — 15.4%
+
+⏱️ Tempo total: 188.66 segundos
