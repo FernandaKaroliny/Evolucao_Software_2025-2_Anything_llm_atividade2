@@ -1,0 +1,15 @@
+transformers>=4.44.0
+sentence-transformers>=2.7.0
+torch>=2.3.0
+accelerate>=0.33.0
+numpy
+psutil
+tokenizers
+sentencepiece
+bitsandbytes
+huggingface-hub
+safetensors
+
+GitPython
+tqdm
+scikit-learn

@@ -1,0 +1,2085 @@
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\eslint.config.js
+- MVC (Model-View-Controller): 0.7601
+- MVVM (Model-View-ViewModel): 0.6705
+- Clean Architecture: 0.6140
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\collector\index.js
+- MVC (Model-View-Controller): 0.9963
+- MVVM (Model-View-ViewModel): 0.9856
+- Clean Architecture: 0.8192
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\collector\extensions\index.js
+- MVC (Model-View-Controller): 0.9936
+- MVVM (Model-View-ViewModel): 0.9912
+- Clean Architecture: 0.9723
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\collector\extensions\resync\index.js
+- MVC (Model-View-Controller): 0.6098
+- MVVM (Model-View-ViewModel): 0.3470
+- Clean Architecture: 0.3051
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\collector\middleware\httpLogger.js
+- MVC (Model-View-Controller): 0.8382
+- MVVM (Model-View-ViewModel): 0.7529
+- Clean Architecture: 0.4644
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\collector\middleware\setDataSigner.js
+- MVC (Model-View-Controller): 0.6640
+- MVVM (Model-View-ViewModel): 0.4004
+- Clean Architecture: 0.2538
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\collector\middleware\verifyIntegrity.js
+- MVC (Model-View-Controller): 0.8597
+- MVVM (Model-View-ViewModel): 0.6993
+- Clean Architecture: 0.6205
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\collector\processLink\index.js
+- MVC (Model-View-Controller): 0.9321
+- MVVM (Model-View-ViewModel): 0.8030
+- Clean Architecture: 0.3134
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\collector\processLink\convert\generic.js
+- MVC (Model-View-Controller): 0.9882
+- MVVM (Model-View-ViewModel): 0.9729
+- Clean Architecture: 0.7034
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\collector\processLink\helpers\index.js
+- MVC (Model-View-Controller): 0.9546
+- MVVM (Model-View-ViewModel): 0.7629
+- Clean Architecture: 0.7566
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\collector\processRawText\index.js
+- MVC (Model-View-Controller): 0.9829
+- MVVM (Model-View-ViewModel): 0.9329
+- Clean Architecture: 0.9162
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\collector\processSingleFile\index.js
+- MVC (Model-View-Controller): 0.9754
+- MVVM (Model-View-ViewModel): 0.6012
+- Clean Architecture: 0.4841
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\collector\processSingleFile\convert\asAudio.js
+- MVC (Model-View-Controller): 0.9960
+- MVVM (Model-View-ViewModel): 0.9544
+- Clean Architecture: 0.8552
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\collector\processSingleFile\convert\asDocx.js
+- MVC (Model-View-Controller): 0.9740
+- MVVM (Model-View-ViewModel): 0.9318
+- Clean Architecture: 0.7966
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\collector\processSingleFile\convert\asEPub.js
+- MVC (Model-View-Controller): 0.9720
+- MVVM (Model-View-ViewModel): 0.9076
+- Clean Architecture: 0.7625
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\collector\processSingleFile\convert\asImage.js
+- MVC (Model-View-Controller): 0.9615
+- MVVM (Model-View-ViewModel): 0.8475
+- Clean Architecture: 0.5836
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\collector\processSingleFile\convert\asMbox.js
+- MVC (Model-View-Controller): 0.9912
+- MVVM (Model-View-ViewModel): 0.8867
+- Clean Architecture: 0.6268
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\collector\processSingleFile\convert\asOfficeMime.js
+- MVC (Model-View-Controller): 0.9886
+- MVVM (Model-View-ViewModel): 0.9679
+- Clean Architecture: 0.7790
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\collector\processSingleFile\convert\asTxt.js
+- MVC (Model-View-Controller): 0.9756
+- MVVM (Model-View-ViewModel): 0.8532
+- Clean Architecture: 0.6686
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\collector\processSingleFile\convert\asXlsx.js
+- MVC (Model-View-Controller): 0.9898
+- MVVM (Model-View-ViewModel): 0.9207
+- Clean Architecture: 0.8657
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\collector\processSingleFile\convert\asPDF\index.js
+- MVC (Model-View-Controller): 0.9943
+- MVVM (Model-View-ViewModel): 0.9565
+- Clean Architecture: 0.8051
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\collector\processSingleFile\convert\asPDF\PDFLoader\index.js
+- MVC (Model-View-Controller): 0.9663
+- MVVM (Model-View-ViewModel): 0.8579
+- Clean Architecture: 0.8515
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\collector\utils\constants.js
+- MVC (Model-View-Controller): 0.8362
+- MVVM (Model-View-ViewModel): 0.6939
+- Clean Architecture: 0.5798
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\collector\utils\comKey\index.js
+- MVC (Model-View-Controller): 0.7188
+- MVVM (Model-View-ViewModel): 0.6158
+- Clean Architecture: 0.5748
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\collector\utils\downloadURIToFile\index.js
+- MVC (Model-View-Controller): 0.9882
+- MVVM (Model-View-ViewModel): 0.8532
+- Clean Architecture: 0.8029
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\collector\utils\EncryptionWorker\index.js
+- MVC (Model-View-Controller): 0.7786
+- MVVM (Model-View-ViewModel): 0.6833
+- Clean Architecture: 0.4657
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\collector\utils\extensions\Confluence\index.js
+- MVC (Model-View-Controller): 0.9961
+- MVVM (Model-View-ViewModel): 0.8576
+- Clean Architecture: 0.7080
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\collector\utils\extensions\Confluence\ConfluenceLoader\index.js
+- MVC (Model-View-Controller): 0.9575
+- MVVM (Model-View-ViewModel): 0.2734
+- Clean Architecture: 0.1767
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\collector\utils\extensions\DrupalWiki\index.js
+- MVC (Model-View-Controller): 0.9698
+- MVVM (Model-View-ViewModel): 0.5888
+- Clean Architecture: 0.5712
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\collector\utils\extensions\DrupalWiki\DrupalWiki\index.js
+- MVC (Model-View-Controller): 0.9961
+- MVVM (Model-View-ViewModel): 0.9507
+- Clean Architecture: 0.8216
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\collector\utils\extensions\ObsidianVault\index.js
+- MVC (Model-View-Controller): 0.9923
+- MVVM (Model-View-ViewModel): 0.9163
+- Clean Architecture: 0.7203
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\collector\utils\extensions\RepoLoader\index.js
+- MVC (Model-View-Controller): 0.7723
+- MVVM (Model-View-ViewModel): 0.7229
+- Clean Architecture: 0.6644
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\collector\utils\extensions\RepoLoader\GithubRepo\index.js
+- MVC (Model-View-Controller): 0.9824
+- MVVM (Model-View-ViewModel): 0.8311
+- Clean Architecture: 0.5644
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\collector\utils\extensions\RepoLoader\GithubRepo\RepoLoader\index.js
+- MVC (Model-View-Controller): 0.9179
+- MVVM (Model-View-ViewModel): 0.7992
+- Clean Architecture: 0.7243
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\collector\utils\extensions\RepoLoader\GitlabRepo\index.js
+- MVC (Model-View-Controller): 0.9837
+- MVVM (Model-View-ViewModel): 0.7588
+- Clean Architecture: 0.4797
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\collector\utils\extensions\RepoLoader\GitlabRepo\RepoLoader\index.js
+- MVC (Model-View-Controller): 0.8896
+- MVVM (Model-View-ViewModel): 0.8395
+- Clean Architecture: 0.8300
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\collector\utils\extensions\WebsiteDepth\index.js
+- MVC (Model-View-Controller): 0.9676
+- MVVM (Model-View-ViewModel): 0.7939
+- Clean Architecture: 0.2214
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\collector\utils\extensions\YoutubeTranscript\index.js
+- MVC (Model-View-Controller): 0.9884
+- MVVM (Model-View-ViewModel): 0.9021
+- Clean Architecture: 0.7153
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\collector\utils\extensions\YoutubeTranscript\YoutubeLoader\index.js
+- MVC (Model-View-Controller): 0.8221
+- MVVM (Model-View-ViewModel): 0.6490
+- Clean Architecture: 0.4120
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\collector\utils\extensions\YoutubeTranscript\YoutubeLoader\youtube-transcript.js
+- MVC (Model-View-Controller): 0.9114
+- MVVM (Model-View-ViewModel): 0.8599
+- Clean Architecture: 0.8211
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\collector\utils\files\index.js
+- MVC (Model-View-Controller): 0.7501
+- MVVM (Model-View-ViewModel): 0.6222
+- Clean Architecture: 0.5105
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\collector\utils\files\mime.js
+- MVC (Model-View-Controller): 0.9167
+- MVVM (Model-View-ViewModel): 0.8831
+- Clean Architecture: 0.8415
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\collector\utils\http\index.js
+- MVC (Model-View-Controller): 0.6740
+- MVVM (Model-View-ViewModel): 0.6626
+- Clean Architecture: 0.5701
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\collector\utils\logger\index.js
+- MVC (Model-View-Controller): 0.3731
+- MVVM (Model-View-ViewModel): 0.2619
+- Clean Architecture: 0.2334
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\collector\utils\OCRLoader\index.js
+- MVC (Model-View-Controller): 0.9420
+- MVVM (Model-View-ViewModel): 0.9028
+- Clean Architecture: 0.8576
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\collector\utils\OCRLoader\validLangs.js
+- MVC (Model-View-Controller): 0.2105
+- MVVM (Model-View-ViewModel): 0.1996
+- Clean Architecture: 0.1814
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\collector\utils\runtimeSettings\index.js
+- MVC (Model-View-Controller): 0.5181
+- MVVM (Model-View-ViewModel): 0.4830
+- Clean Architecture: 0.4549
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\collector\utils\tokenizer\index.js
+- MVC (Model-View-Controller): 0.8682
+- MVVM (Model-View-ViewModel): 0.7182
+- Clean Architecture: 0.5704
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\collector\utils\url\index.js
+- MVC (Model-View-Controller): 0.5627
+- MVVM (Model-View-ViewModel): 0.4527
+- Clean Architecture: 0.2389
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\collector\utils\WhisperProviders\localWhisper.js
+- MVC (Model-View-Controller): 0.8924
+- MVVM (Model-View-ViewModel): 0.8430
+- Clean Architecture: 0.7459
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\collector\utils\WhisperProviders\OpenAiWhisper.js
+- MVC (Model-View-Controller): 0.9481
+- MVVM (Model-View-ViewModel): 0.8916
+- Clean Architecture: 0.7359
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\collector\__tests__\utils\extensions\YoutubeTranscript\YoutubeLoader\youtube-transcript.test.js
+- MVC (Model-View-Controller): 0.9183
+- MVVM (Model-View-ViewModel): 0.6177
+- Clean Architecture: 0.3857
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\collector\__tests__\utils\url\index.test.js
+- MVC (Model-View-Controller): 0.8188
+- MVVM (Model-View-ViewModel): 0.4282
+- Clean Architecture: 0.3547
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\postcss.config.js
+- MVC (Model-View-Controller): 0.7254
+- MVVM (Model-View-ViewModel): 0.6476
+- Clean Architecture: 0.4428
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\tailwind.config.js
+- MVC (Model-View-Controller): 0.7838
+- MVVM (Model-View-ViewModel): 0.7314
+- Clean Architecture: 0.6974
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\vite.config.js
+- MVC (Model-View-Controller): 0.7211
+- MVVM (Model-View-ViewModel): 0.6578
+- Clean Architecture: 0.6284
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\public\embed\anythingllm-chat-widget.min.js
+- MVC (Model-View-Controller): 0.9941
+- MVVM (Model-View-ViewModel): 0.8768
+- Clean Architecture: 0.8655
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\scripts\postbuild.js
+- MVC (Model-View-Controller): 0.8435
+- MVVM (Model-View-ViewModel): 0.5284
+- Clean Architecture: 0.4392
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\i18n.js
+- MVC (Model-View-Controller): 0.7184
+- MVVM (Model-View-ViewModel): 0.4888
+- Clean Architecture: 0.2551
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\components\DataConnectorOption\media\index.js
+- MVC (Model-View-Controller): 0.4510
+- MVVM (Model-View-ViewModel): 0.2929
+- Clean Architecture: 0.1025
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\components\LLMSelection\AwsBedrockLLMOptions\regions.js
+- MVC (Model-View-Controller): 0.6080
+- MVVM (Model-View-ViewModel): 0.6060
+- Clean Architecture: 0.5034
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\components\Modals\ManageWorkspace\Documents\Directory\utils.js
+- MVC (Model-View-Controller): 0.7611
+- MVVM (Model-View-ViewModel): 0.7306
+- Clean Architecture: 0.6526
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\components\WorkspaceChat\ChatContainer\ChatHistory\Chartable\chart-utils.js
+- MVC (Model-View-Controller): 0.9580
+- MVVM (Model-View-ViewModel): 0.9484
+- Clean Architecture: 0.9205
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\components\WorkspaceChat\ChatContainer\PromptInput\LLMSelector\utils.js
+- MVC (Model-View-Controller): 0.8551
+- MVVM (Model-View-ViewModel): 0.7545
+- Clean Architecture: 0.4355
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\hooks\useAppVersion.js
+- MVC (Model-View-Controller): 0.9069
+- MVVM (Model-View-ViewModel): 0.8293
+- Clean Architecture: 0.8282
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\hooks\useChatMessageAlignment.js
+- MVC (Model-View-Controller): 0.8119
+- MVVM (Model-View-ViewModel): 0.6447
+- Clean Architecture: 0.6284
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\hooks\useCommunityHubAuth.js
+- MVC (Model-View-Controller): 0.9638
+- MVVM (Model-View-ViewModel): 0.6733
+- Clean Architecture: 0.6602
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\hooks\useCopyText.js
+- MVC (Model-View-Controller): 0.9703
+- MVVM (Model-View-ViewModel): 0.4988
+- Clean Architecture: 0.4779
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\hooks\useGetProvidersModels.js
+- MVC (Model-View-Controller): 0.9805
+- MVVM (Model-View-ViewModel): 0.6807
+- Clean Architecture: 0.5048
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\hooks\useLanguageOptions.js
+- MVC (Model-View-Controller): 0.6749
+- MVVM (Model-View-ViewModel): 0.6463
+- Clean Architecture: 0.6277
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\hooks\useLoginMode.js
+- MVC (Model-View-Controller): 0.9039
+- MVVM (Model-View-ViewModel): 0.5954
+- Clean Architecture: 0.5951
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\hooks\useLogo.js
+- MVC (Model-View-Controller): 0.9749
+- MVVM (Model-View-ViewModel): 0.8740
+- Clean Architecture: 0.8437
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\hooks\useModal.js
+- MVC (Model-View-Controller): 0.9798
+- MVVM (Model-View-ViewModel): 0.9126
+- Clean Architecture: 0.8116
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\hooks\usePfp.js
+- MVC (Model-View-Controller): 0.9556
+- MVVM (Model-View-ViewModel): 0.8870
+- Clean Architecture: 0.8309
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\hooks\usePrefersDarkMode.js
+- MVC (Model-View-Controller): 0.4326
+- MVVM (Model-View-ViewModel): 0.2514
+- Clean Architecture: 0.0887
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\hooks\useProviderEndpointAutoDiscovery.js
+- MVC (Model-View-Controller): 0.9833
+- MVVM (Model-View-ViewModel): 0.9583
+- Clean Architecture: 0.7957
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\hooks\useQuery.js
+- MVC (Model-View-Controller): 0.4056
+- MVVM (Model-View-ViewModel): 0.3096
+- Clean Architecture: 0.2953
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\hooks\useSimpleSSO.js
+- MVC (Model-View-Controller): 0.9498
+- MVVM (Model-View-ViewModel): 0.7779
+- Clean Architecture: 0.6274
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\hooks\useSlashCommandKeyboardNavigation.js
+- MVC (Model-View-Controller): 0.8635
+- MVVM (Model-View-ViewModel): 0.5583
+- Clean Architecture: 0.4479
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\hooks\useTextSize.js
+- MVC (Model-View-Controller): 0.9252
+- MVVM (Model-View-ViewModel): 0.7049
+- Clean Architecture: 0.3216
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\hooks\useTheme.js
+- MVC (Model-View-Controller): 0.9639
+- MVVM (Model-View-ViewModel): 0.9546
+- Clean Architecture: 0.6897
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\hooks\useUser.js
+- MVC (Model-View-Controller): 0.9642
+- MVVM (Model-View-ViewModel): 0.8870
+- Clean Architecture: 0.7121
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\locales\resources.js
+- MVC (Model-View-Controller): 0.8111
+- MVVM (Model-View-ViewModel): 0.7811
+- Clean Architecture: 0.6691
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\locales\ar\common.js
+- MVC (Model-View-Controller): 0.7707
+- MVVM (Model-View-ViewModel): 0.7516
+- Clean Architecture: 0.6888
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\locales\da\common.js
+- MVC (Model-View-Controller): 0.9321
+- MVVM (Model-View-ViewModel): 0.8185
+- Clean Architecture: 0.8135
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\locales\de\common.js
+- MVC (Model-View-Controller): 0.8189
+- MVVM (Model-View-ViewModel): 0.7475
+- Clean Architecture: 0.6114
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\locales\en\common.js
+- MVC (Model-View-Controller): 0.7376
+- MVVM (Model-View-ViewModel): 0.6336
+- Clean Architecture: 0.3362
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\locales\es\common.js
+- MVC (Model-View-Controller): 0.7781
+- MVVM (Model-View-ViewModel): 0.7049
+- Clean Architecture: 0.6598
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\locales\et\common.js
+- MVC (Model-View-Controller): 0.7266
+- MVVM (Model-View-ViewModel): 0.5918
+- Clean Architecture: 0.5768
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\locales\fa\common.js
+- MVC (Model-View-Controller): 0.8722
+- MVVM (Model-View-ViewModel): 0.7666
+- Clean Architecture: 0.6754
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\locales\fr\common.js
+- MVC (Model-View-Controller): 0.6261
+- MVVM (Model-View-ViewModel): 0.5875
+- Clean Architecture: 0.5705
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\locales\he\common.js
+- MVC (Model-View-Controller): 0.8714
+- MVVM (Model-View-ViewModel): 0.8426
+- Clean Architecture: 0.8180
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\locales\it\common.js
+- MVC (Model-View-Controller): 0.9163
+- MVVM (Model-View-ViewModel): 0.8593
+- Clean Architecture: 0.7896
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\locales\ja\common.js
+- MVC (Model-View-Controller): 0.7089
+- MVVM (Model-View-ViewModel): 0.5323
+- Clean Architecture: 0.3404
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\locales\ko\common.js
+- MVC (Model-View-Controller): 0.7134
+- MVVM (Model-View-ViewModel): 0.5018
+- Clean Architecture: 0.4436
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\locales\lv\common.js
+- MVC (Model-View-Controller): 0.8191
+- MVVM (Model-View-ViewModel): 0.8068
+- Clean Architecture: 0.6228
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\locales\nl\common.js
+- MVC (Model-View-Controller): 0.8840
+- MVVM (Model-View-ViewModel): 0.8316
+- Clean Architecture: 0.7429
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\locales\pl\common.js
+- MVC (Model-View-Controller): 0.7107
+- MVVM (Model-View-ViewModel): 0.5483
+- Clean Architecture: 0.5288
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\locales\pt_BR\common.js
+- MVC (Model-View-Controller): 0.7563
+- MVVM (Model-View-ViewModel): 0.5832
+- Clean Architecture: 0.5074
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\locales\ro\common.js
+- MVC (Model-View-Controller): 0.8972
+- MVVM (Model-View-ViewModel): 0.8928
+- Clean Architecture: 0.8030
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\locales\ru\common.js
+- MVC (Model-View-Controller): 0.8640
+- MVVM (Model-View-ViewModel): 0.8559
+- Clean Architecture: 0.7577
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\locales\tr\common.js
+- MVC (Model-View-Controller): 0.9098
+- MVVM (Model-View-ViewModel): 0.9032
+- Clean Architecture: 0.8708
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\locales\vn\common.js
+- MVC (Model-View-Controller): 0.8547
+- MVVM (Model-View-ViewModel): 0.7222
+- Clean Architecture: 0.7130
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\locales\zh\common.js
+- MVC (Model-View-Controller): 0.7488
+- MVVM (Model-View-ViewModel): 0.6734
+- Clean Architecture: 0.5936
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\locales\zh_TW\common.js
+- MVC (Model-View-Controller): 0.8093
+- MVVM (Model-View-ViewModel): 0.7172
+- Clean Architecture: 0.6715
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\models\admin.js
+- MVC (Model-View-Controller): 0.8237
+- MVVM (Model-View-ViewModel): 0.6787
+- Clean Architecture: 0.4611
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\models\agentFlows.js
+- MVC (Model-View-Controller): 0.9578
+- MVVM (Model-View-ViewModel): 0.9553
+- Clean Architecture: 0.9478
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\models\appearance.js
+- MVC (Model-View-Controller): 0.9093
+- MVVM (Model-View-ViewModel): 0.8845
+- Clean Architecture: 0.5379
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\models\browserExtensionApiKey.js
+- MVC (Model-View-Controller): 0.9708
+- MVVM (Model-View-ViewModel): 0.9252
+- Clean Architecture: 0.7752
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\models\communityHub.js
+- MVC (Model-View-Controller): 0.9724
+- MVVM (Model-View-ViewModel): 0.7823
+- Clean Architecture: 0.4778
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\models\dataConnector.js
+- MVC (Model-View-Controller): 0.9432
+- MVVM (Model-View-ViewModel): 0.9180
+- Clean Architecture: 0.8872
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\models\document.js
+- MVC (Model-View-Controller): 0.9665
+- MVVM (Model-View-ViewModel): 0.8343
+- Clean Architecture: 0.5851
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\models\embed.js
+- MVC (Model-View-Controller): 0.8732
+- MVVM (Model-View-ViewModel): 0.8218
+- Clean Architecture: 0.8117
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\models\invite.js
+- MVC (Model-View-Controller): 0.9777
+- MVVM (Model-View-ViewModel): 0.8532
+- Clean Architecture: 0.3728
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\models\mcpServers.js
+- MVC (Model-View-Controller): 0.9390
+- MVVM (Model-View-ViewModel): 0.7896
+- Clean Architecture: 0.1943
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\models\mobile.js
+- MVC (Model-View-Controller): 0.9890
+- MVVM (Model-View-ViewModel): 0.9759
+- Clean Architecture: 0.7937
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\models\promptHistory.js
+- MVC (Model-View-Controller): 0.9897
+- MVVM (Model-View-ViewModel): 0.8740
+- Clean Architecture: 0.2698
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\models\system.js
+- MVC (Model-View-Controller): 0.9546
+- MVVM (Model-View-ViewModel): 0.8409
+- Clean Architecture: 0.4203
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\models\systemPromptVariable.js
+- MVC (Model-View-Controller): 0.9798
+- MVVM (Model-View-ViewModel): 0.9352
+- Clean Architecture: 0.4594
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\models\workspace.js
+- MVC (Model-View-Controller): 0.9914
+- MVVM (Model-View-ViewModel): 0.9409
+- Clean Architecture: 0.7807
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\models\workspaceThread.js
+- MVC (Model-View-Controller): 0.7877
+- MVVM (Model-View-ViewModel): 0.7767
+- Clean Architecture: 0.6934
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\models\experimental\agentPlugins.js
+- MVC (Model-View-Controller): 0.9875
+- MVVM (Model-View-ViewModel): 0.9782
+- Clean Architecture: 0.3613
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\models\experimental\liveSync.js
+- MVC (Model-View-Controller): 0.9358
+- MVVM (Model-View-ViewModel): 0.8366
+- Clean Architecture: 0.5312
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\pages\Admin\Agents\skills.js
+- MVC (Model-View-Controller): 0.8493
+- MVVM (Model-View-ViewModel): 0.7201
+- Clean Architecture: 0.6671
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\pages\Admin\ExperimentalFeatures\features.js
+- MVC (Model-View-Controller): 0.7277
+- MVVM (Model-View-ViewModel): 0.3685
+- Clean Architecture: 0.2831
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\pages\GeneralSettings\CommunityHub\utils.js
+- MVC (Model-View-Controller): 0.4563
+- MVVM (Model-View-ViewModel): 0.2259
+- Clean Architecture: 0.1845
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\pages\GeneralSettings\CommunityHub\Authentication\useUserItems.js
+- MVC (Model-View-Controller): 0.9444
+- MVVM (Model-View-ViewModel): 0.8143
+- Clean Architecture: 0.5783
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\pages\GeneralSettings\CommunityHub\ImportItem\Steps\PullAndReview\HubItem\index.js
+- MVC (Model-View-Controller): 0.9135
+- MVVM (Model-View-ViewModel): 0.7479
+- Clean Architecture: 0.4535
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\pages\Main\Home\Checklist\constants.js
+- MVC (Model-View-Controller): 0.9841
+- MVVM (Model-View-ViewModel): 0.9393
+- Clean Architecture: 0.8768
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\utils\constants.js
+- MVC (Model-View-Controller): 0.9461
+- MVVM (Model-View-ViewModel): 0.7601
+- Clean Architecture: 0.7290
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\utils\directories.js
+- MVC (Model-View-Controller): 0.7103
+- MVVM (Model-View-ViewModel): 0.7078
+- Clean Architecture: 0.3878
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\utils\keyboardShortcuts.js
+- MVC (Model-View-Controller): 0.8786
+- MVVM (Model-View-ViewModel): 0.7971
+- Clean Architecture: 0.7867
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\utils\numbers.js
+- MVC (Model-View-Controller): 0.7276
+- MVVM (Model-View-ViewModel): 0.6093
+- Clean Architecture: 0.6092
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\utils\paths.js
+- MVC (Model-View-Controller): 0.9802
+- MVVM (Model-View-ViewModel): 0.9761
+- Clean Architecture: 0.9743
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\utils\request.js
+- MVC (Model-View-Controller): 0.4846
+- MVVM (Model-View-ViewModel): 0.3581
+- Clean Architecture: 0.3032
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\utils\session.js
+- MVC (Model-View-Controller): 0.9482
+- MVVM (Model-View-ViewModel): 0.7425
+- Clean Architecture: 0.5635
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\utils\toast.js
+- MVC (Model-View-Controller): 0.6866
+- MVVM (Model-View-ViewModel): 0.6103
+- Clean Architecture: 0.4025
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\utils\types.js
+- MVC (Model-View-Controller): 0.3985
+- MVVM (Model-View-ViewModel): 0.3307
+- Clean Architecture: 0.2577
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\utils\chat\agent.js
+- MVC (Model-View-Controller): 0.9820
+- MVVM (Model-View-ViewModel): 0.9620
+- Clean Architecture: 0.9226
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\utils\chat\index.js
+- MVC (Model-View-Controller): 0.7166
+- MVVM (Model-View-ViewModel): 0.6212
+- Clean Architecture: 0.6070
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\utils\chat\markdown.js
+- MVC (Model-View-Controller): 0.9670
+- MVVM (Model-View-ViewModel): 0.9575
+- Clean Architecture: 0.9545
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\utils\chat\purify.js
+- MVC (Model-View-Controller): 0.5802
+- MVVM (Model-View-ViewModel): 0.2046
+- Clean Architecture: 0.1840
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\utils\chat\plugins\markdown-katex.js
+- MVC (Model-View-Controller): 0.9596
+- MVVM (Model-View-ViewModel): 0.9331
+- Clean Architecture: 0.9242
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\utils\piperTTS\index.js
+- MVC (Model-View-Controller): 0.9877
+- MVVM (Model-View-ViewModel): 0.9451
+- Clean Architecture: 0.5876
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\frontend\src\utils\piperTTS\worker.js
+- MVC (Model-View-Controller): 0.9907
+- MVVM (Model-View-ViewModel): 0.9437
+- Clean Architecture: 0.8876
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\index.js
+- MVC (Model-View-Controller): 0.9157
+- MVVM (Model-View-ViewModel): 0.8347
+- Clean Architecture: 0.6747
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\endpoints\admin.js
+- MVC (Model-View-Controller): 0.9967
+- MVVM (Model-View-ViewModel): 0.9866
+- Clean Architecture: 0.7304
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\endpoints\agentFlows.js
+- MVC (Model-View-Controller): 0.6448
+- MVVM (Model-View-ViewModel): 0.3516
+- Clean Architecture: 0.3458
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\endpoints\agentWebsocket.js
+- MVC (Model-View-Controller): 0.9646
+- MVVM (Model-View-ViewModel): 0.8313
+- Clean Architecture: 0.8256
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\endpoints\browserExtension.js
+- MVC (Model-View-Controller): 0.9495
+- MVVM (Model-View-ViewModel): 0.4327
+- Clean Architecture: 0.3914
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\endpoints\chat.js
+- MVC (Model-View-Controller): 0.9692
+- MVVM (Model-View-ViewModel): 0.9387
+- Clean Architecture: 0.8460
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\endpoints\communityHub.js
+- MVC (Model-View-Controller): 0.9494
+- MVVM (Model-View-ViewModel): 0.8241
+- Clean Architecture: 0.4797
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\endpoints\document.js
+- MVC (Model-View-Controller): 0.9842
+- MVVM (Model-View-ViewModel): 0.8003
+- Clean Architecture: 0.6204
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\endpoints\embedManagement.js
+- MVC (Model-View-Controller): 0.9961
+- MVVM (Model-View-ViewModel): 0.9547
+- Clean Architecture: 0.8068
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\endpoints\invite.js
+- MVC (Model-View-Controller): 0.5935
+- MVVM (Model-View-ViewModel): 0.4640
+- Clean Architecture: 0.2851
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\endpoints\mcpServers.js
+- MVC (Model-View-Controller): 0.9453
+- MVVM (Model-View-ViewModel): 0.8696
+- Clean Architecture: 0.7215
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\endpoints\system.js
+- MVC (Model-View-Controller): 0.9605
+- MVVM (Model-View-ViewModel): 0.9402
+- Clean Architecture: 0.8270
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\endpoints\utils.js
+- MVC (Model-View-Controller): 0.9900
+- MVVM (Model-View-ViewModel): 0.9690
+- Clean Architecture: 0.6628
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\endpoints\workspaces.js
+- MVC (Model-View-Controller): 0.9750
+- MVVM (Model-View-ViewModel): 0.9506
+- Clean Architecture: 0.4584
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\endpoints\workspacesParsedFiles.js
+- MVC (Model-View-Controller): 0.9842
+- MVVM (Model-View-ViewModel): 0.9507
+- Clean Architecture: 0.7142
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\endpoints\workspaceThreads.js
+- MVC (Model-View-Controller): 0.9955
+- MVVM (Model-View-ViewModel): 0.9725
+- Clean Architecture: 0.9549
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\endpoints\api\index.js
+- MVC (Model-View-Controller): 0.4809
+- MVVM (Model-View-ViewModel): 0.4794
+- Clean Architecture: 0.1791
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\endpoints\api\admin\index.js
+- MVC (Model-View-Controller): 0.8946
+- MVVM (Model-View-ViewModel): 0.7766
+- Clean Architecture: 0.6971
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\endpoints\api\auth\index.js
+- MVC (Model-View-Controller): 0.8177
+- MVVM (Model-View-ViewModel): 0.4503
+- Clean Architecture: 0.1497
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\endpoints\api\document\index.js
+- MVC (Model-View-Controller): 0.9908
+- MVVM (Model-View-ViewModel): 0.9897
+- Clean Architecture: 0.9722
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\endpoints\api\embed\index.js
+- MVC (Model-View-Controller): 0.8394
+- MVVM (Model-View-ViewModel): 0.4697
+- Clean Architecture: 0.3839
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\endpoints\api\openai\helpers.js
+- MVC (Model-View-Controller): 0.7926
+- MVVM (Model-View-ViewModel): 0.6847
+- Clean Architecture: 0.6231
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\endpoints\api\openai\index.js
+- MVC (Model-View-Controller): 0.8252
+- MVVM (Model-View-ViewModel): 0.8127
+- Clean Architecture: 0.7938
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\endpoints\api\system\index.js
+- MVC (Model-View-Controller): 0.8132
+- MVVM (Model-View-ViewModel): 0.7745
+- Clean Architecture: 0.7591
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\endpoints\api\userManagement\index.js
+- MVC (Model-View-Controller): 0.9609
+- MVVM (Model-View-ViewModel): 0.8642
+- Clean Architecture: 0.7774
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\endpoints\api\workspace\index.js
+- MVC (Model-View-Controller): 0.9840
+- MVVM (Model-View-ViewModel): 0.9616
+- Clean Architecture: 0.8958
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\endpoints\api\workspaceThread\index.js
+- MVC (Model-View-Controller): 0.8099
+- MVVM (Model-View-ViewModel): 0.7290
+- Clean Architecture: 0.6416
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\endpoints\embed\index.js
+- MVC (Model-View-Controller): 0.9791
+- MVVM (Model-View-ViewModel): 0.9752
+- Clean Architecture: 0.9481
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\endpoints\experimental\imported-agent-plugins.js
+- MVC (Model-View-Controller): 0.9369
+- MVVM (Model-View-ViewModel): 0.7520
+- Clean Architecture: 0.6751
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\endpoints\experimental\index.js
+- MVC (Model-View-Controller): 0.6156
+- MVVM (Model-View-ViewModel): 0.3077
+- Clean Architecture: 0.1794
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\endpoints\experimental\liveSync.js
+- MVC (Model-View-Controller): 0.9937
+- MVVM (Model-View-ViewModel): 0.9254
+- Clean Architecture: 0.7771
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\endpoints\extensions\index.js
+- MVC (Model-View-Controller): 0.8539
+- MVVM (Model-View-ViewModel): 0.8362
+- Clean Architecture: 0.7736
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\endpoints\mobile\index.js
+- MVC (Model-View-Controller): 0.9481
+- MVVM (Model-View-ViewModel): 0.8626
+- Clean Architecture: 0.6735
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\endpoints\mobile\middleware\index.js
+- MVC (Model-View-Controller): 0.8912
+- MVVM (Model-View-ViewModel): 0.3216
+- Clean Architecture: 0.2868
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\endpoints\mobile\utils\index.js
+- MVC (Model-View-Controller): 0.9792
+- MVVM (Model-View-ViewModel): 0.7784
+- Clean Architecture: 0.4784
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\jobs\cleanup-orphan-documents.js
+- MVC (Model-View-Controller): 0.9645
+- MVVM (Model-View-ViewModel): 0.8092
+- Clean Architecture: 0.6550
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\jobs\sync-watched-documents.js
+- MVC (Model-View-Controller): 0.9943
+- MVVM (Model-View-ViewModel): 0.9584
+- Clean Architecture: 0.8888
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\jobs\helpers\index.js
+- MVC (Model-View-Controller): 0.9921
+- MVVM (Model-View-ViewModel): 0.9865
+- Clean Architecture: 0.9639
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\middleware\httpLogger.js
+- MVC (Model-View-Controller): 0.8569
+- MVVM (Model-View-ViewModel): 0.8124
+- Clean Architecture: 0.6619
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\models\apiKeys.js
+- MVC (Model-View-Controller): 0.9804
+- MVVM (Model-View-ViewModel): 0.8903
+- Clean Architecture: 0.6286
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\models\browserExtensionApiKey.js
+- MVC (Model-View-Controller): 0.9495
+- MVVM (Model-View-ViewModel): 0.6489
+- Clean Architecture: 0.4975
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\models\cacheData.js
+- MVC (Model-View-Controller): 0.9579
+- MVVM (Model-View-ViewModel): 0.7472
+- Clean Architecture: 0.4236
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\models\communityHub.js
+- MVC (Model-View-Controller): 0.9893
+- MVVM (Model-View-ViewModel): 0.9801
+- Clean Architecture: 0.8709
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\models\documents.js
+- MVC (Model-View-Controller): 0.9536
+- MVVM (Model-View-ViewModel): 0.9102
+- Clean Architecture: 0.6199
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\models\documentSyncQueue.js
+- MVC (Model-View-Controller): 0.9022
+- MVVM (Model-View-ViewModel): 0.6907
+- Clean Architecture: 0.5134
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\models\documentSyncRun.js
+- MVC (Model-View-Controller): 0.5357
+- MVVM (Model-View-ViewModel): 0.3583
+- Clean Architecture: 0.1933
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\models\embedChats.js
+- MVC (Model-View-Controller): 0.9480
+- MVVM (Model-View-ViewModel): 0.9042
+- Clean Architecture: 0.8693
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\models\embedConfig.js
+- MVC (Model-View-Controller): 0.9389
+- MVVM (Model-View-ViewModel): 0.8990
+- Clean Architecture: 0.8499
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\models\eventLogs.js
+- MVC (Model-View-Controller): 0.8227
+- MVVM (Model-View-ViewModel): 0.6963
+- Clean Architecture: 0.6836
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\models\invite.js
+- MVC (Model-View-Controller): 0.8896
+- MVVM (Model-View-ViewModel): 0.8874
+- Clean Architecture: 0.7433
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\models\mobileDevice.js
+- MVC (Model-View-Controller): 0.7506
+- MVVM (Model-View-ViewModel): 0.6134
+- Clean Architecture: 0.3831
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\models\passwordRecovery.js
+- MVC (Model-View-Controller): 0.9173
+- MVVM (Model-View-ViewModel): 0.8209
+- Clean Architecture: 0.4511
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\models\promptHistory.js
+- MVC (Model-View-Controller): 0.8204
+- MVVM (Model-View-ViewModel): 0.6509
+- Clean Architecture: 0.6198
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\models\slashCommandsPresets.js
+- MVC (Model-View-Controller): 0.9377
+- MVVM (Model-View-ViewModel): 0.8606
+- Clean Architecture: 0.7142
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\models\systemPromptVariables.js
+- MVC (Model-View-Controller): 0.9740
+- MVVM (Model-View-ViewModel): 0.9362
+- Clean Architecture: 0.9217
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\models\systemSettings.js
+- MVC (Model-View-Controller): 0.9537
+- MVVM (Model-View-ViewModel): 0.9022
+- Clean Architecture: 0.8769
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\models\telemetry.js
+- MVC (Model-View-Controller): 0.9308
+- MVVM (Model-View-ViewModel): 0.7218
+- Clean Architecture: 0.6511
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\models\temporaryAuthToken.js
+- MVC (Model-View-Controller): 0.9296
+- MVVM (Model-View-ViewModel): 0.5806
+- Clean Architecture: 0.3129
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\models\user.js
+- MVC (Model-View-Controller): 0.9680
+- MVVM (Model-View-ViewModel): 0.7696
+- Clean Architecture: 0.7360
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\models\vectors.js
+- MVC (Model-View-Controller): 0.9376
+- MVVM (Model-View-ViewModel): 0.7878
+- Clean Architecture: 0.4914
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\models\welcomeMessages.js
+- MVC (Model-View-Controller): 0.9844
+- MVVM (Model-View-ViewModel): 0.9374
+- Clean Architecture: 0.7686
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\models\workspace.js
+- MVC (Model-View-Controller): 0.7881
+- MVVM (Model-View-ViewModel): 0.7393
+- Clean Architecture: 0.4301
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\models\workspaceAgentInvocation.js
+- MVC (Model-View-Controller): 0.8305
+- MVVM (Model-View-ViewModel): 0.8155
+- Clean Architecture: 0.4416
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\models\workspaceChats.js
+- MVC (Model-View-Controller): 0.8358
+- MVVM (Model-View-ViewModel): 0.7949
+- Clean Architecture: 0.7871
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\models\workspaceParsedFiles.js
+- MVC (Model-View-Controller): 0.3458
+- MVVM (Model-View-ViewModel): 0.2906
+- Clean Architecture: 0.2120
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\models\workspacesSuggestedMessages.js
+- MVC (Model-View-Controller): 0.9792
+- MVVM (Model-View-ViewModel): 0.8100
+- Clean Architecture: 0.3249
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\models\workspaceThread.js
+- MVC (Model-View-Controller): 0.9692
+- MVVM (Model-View-ViewModel): 0.8467
+- Clean Architecture: 0.8024
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\models\workspaceUsers.js
+- MVC (Model-View-Controller): 0.9516
+- MVVM (Model-View-ViewModel): 0.6741
+- Clean Architecture: 0.6132
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\prisma\seed.js
+- MVC (Model-View-Controller): 0.9743
+- MVVM (Model-View-ViewModel): 0.6935
+- Clean Architecture: 0.4552
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\swagger\index.js
+- MVC (Model-View-Controller): 0.9387
+- MVVM (Model-View-ViewModel): 0.5674
+- Clean Architecture: 0.4181
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\swagger\init.js
+- MVC (Model-View-Controller): 0.8867
+- MVVM (Model-View-ViewModel): 0.7733
+- Clean Architecture: 0.7563
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\swagger\utils.js
+- MVC (Model-View-Controller): 0.9767
+- MVVM (Model-View-ViewModel): 0.9752
+- Clean Architecture: 0.8766
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agentFlows\executor.js
+- MVC (Model-View-Controller): 0.9377
+- MVVM (Model-View-ViewModel): 0.9308
+- Clean Architecture: 0.8288
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agentFlows\flowTypes.js
+- MVC (Model-View-Controller): 0.9610
+- MVVM (Model-View-ViewModel): 0.9283
+- Clean Architecture: 0.8816
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agentFlows\index.js
+- MVC (Model-View-Controller): 0.8977
+- MVVM (Model-View-ViewModel): 0.8861
+- Clean Architecture: 0.5005
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agentFlows\executors\api-call.js
+- MVC (Model-View-Controller): 0.9940
+- MVVM (Model-View-ViewModel): 0.7797
+- Clean Architecture: 0.3892
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agentFlows\executors\llm-instruction.js
+- MVC (Model-View-Controller): 0.9887
+- MVVM (Model-View-ViewModel): 0.5756
+- Clean Architecture: 0.4842
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agentFlows\executors\web-scraping.js
+- MVC (Model-View-Controller): 0.9925
+- MVVM (Model-View-ViewModel): 0.7740
+- Clean Architecture: 0.3974
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\defaults.js
+- MVC (Model-View-Controller): 0.9540
+- MVVM (Model-View-ViewModel): 0.7034
+- Clean Architecture: 0.6183
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\ephemeral.js
+- MVC (Model-View-Controller): 0.7958
+- MVVM (Model-View-ViewModel): 0.5382
+- Clean Architecture: 0.3734
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\imported.js
+- MVC (Model-View-Controller): 0.6199
+- MVVM (Model-View-ViewModel): 0.5767
+- Clean Architecture: 0.4199
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\index.js
+- MVC (Model-View-Controller): 0.8983
+- MVVM (Model-View-ViewModel): 0.8916
+- Clean Architecture: 0.8892
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\error.js
+- MVC (Model-View-Controller): 0.6314
+- MVVM (Model-View-ViewModel): 0.5663
+- Clean Architecture: 0.1501
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\index.js
+- MVC (Model-View-Controller): 0.9079
+- MVVM (Model-View-ViewModel): 0.8712
+- Clean Architecture: 0.6945
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\example\beginner-chat.js
+- MVC (Model-View-Controller): 0.9667
+- MVVM (Model-View-ViewModel): 0.7731
+- Clean Architecture: 0.5783
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\example\blog-post-coding.js
+- MVC (Model-View-Controller): 0.9758
+- MVVM (Model-View-ViewModel): 0.6776
+- Clean Architecture: 0.5201
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\example\websocket\websock-branding-collab.js
+- MVC (Model-View-Controller): 0.9872
+- MVVM (Model-View-ViewModel): 0.9692
+- Clean Architecture: 0.8059
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\example\websocket\websock-multi-turn-chat.js
+- MVC (Model-View-Controller): 0.9859
+- MVVM (Model-View-ViewModel): 0.8947
+- Clean Architecture: 0.5630
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\plugins\chat-history.js
+- MVC (Model-View-Controller): 0.9281
+- MVVM (Model-View-ViewModel): 0.8825
+- Clean Architecture: 0.7330
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\plugins\cli.js
+- MVC (Model-View-Controller): 0.8587
+- MVVM (Model-View-ViewModel): 0.4548
+- Clean Architecture: 0.4503
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\plugins\file-history.js
+- MVC (Model-View-Controller): 0.7379
+- MVVM (Model-View-ViewModel): 0.4128
+- Clean Architecture: 0.2690
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\plugins\http-socket.js
+- MVC (Model-View-Controller): 0.9910
+- MVVM (Model-View-ViewModel): 0.8495
+- Clean Architecture: 0.8361
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\plugins\index.js
+- MVC (Model-View-Controller): 0.4974
+- MVVM (Model-View-ViewModel): 0.3599
+- Clean Architecture: 0.1396
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\plugins\memory.js
+- MVC (Model-View-Controller): 0.9147
+- MVVM (Model-View-ViewModel): 0.8662
+- Clean Architecture: 0.8414
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\plugins\rechart.js
+- MVC (Model-View-Controller): 0.8422
+- MVVM (Model-View-ViewModel): 0.8008
+- Clean Architecture: 0.6614
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\plugins\save-file-browser.js
+- MVC (Model-View-Controller): 0.9730
+- MVVM (Model-View-ViewModel): 0.9141
+- Clean Architecture: 0.8753
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\plugins\summarize.js
+- MVC (Model-View-Controller): 0.9394
+- MVVM (Model-View-ViewModel): 0.8503
+- Clean Architecture: 0.7354
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\plugins\web-browsing.js
+- MVC (Model-View-Controller): 0.9402
+- MVVM (Model-View-ViewModel): 0.8639
+- Clean Architecture: 0.7674
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\plugins\web-scraping.js
+- MVC (Model-View-Controller): 0.8779
+- MVVM (Model-View-ViewModel): 0.8401
+- Clean Architecture: 0.8261
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\plugins\websocket.js
+- MVC (Model-View-Controller): 0.9720
+- MVVM (Model-View-ViewModel): 0.8153
+- Clean Architecture: 0.7783
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\plugins\sql-agent\get-table-schema.js
+- MVC (Model-View-Controller): 0.8838
+- MVVM (Model-View-ViewModel): 0.8224
+- Clean Architecture: 0.7691
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\plugins\sql-agent\index.js
+- MVC (Model-View-Controller): 0.7791
+- MVVM (Model-View-ViewModel): 0.6925
+- Clean Architecture: 0.4224
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\plugins\sql-agent\list-database.js
+- MVC (Model-View-Controller): 0.8085
+- MVVM (Model-View-ViewModel): 0.8032
+- Clean Architecture: 0.7387
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\plugins\sql-agent\list-table.js
+- MVC (Model-View-Controller): 0.9527
+- MVVM (Model-View-ViewModel): 0.7795
+- Clean Architecture: 0.7618
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\plugins\sql-agent\query.js
+- MVC (Model-View-Controller): 0.7896
+- MVVM (Model-View-ViewModel): 0.6468
+- Clean Architecture: 0.6014
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\plugins\sql-agent\SQLConnectors\index.js
+- MVC (Model-View-Controller): 0.9422
+- MVVM (Model-View-ViewModel): 0.8717
+- Clean Architecture: 0.5470
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\plugins\sql-agent\SQLConnectors\MSSQL.js
+- MVC (Model-View-Controller): 0.9912
+- MVVM (Model-View-ViewModel): 0.9586
+- Clean Architecture: 0.8730
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\plugins\sql-agent\SQLConnectors\MySQL.js
+- MVC (Model-View-Controller): 0.9571
+- MVVM (Model-View-ViewModel): 0.8585
+- Clean Architecture: 0.8269
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\plugins\sql-agent\SQLConnectors\Postgresql.js
+- MVC (Model-View-Controller): 0.9803
+- MVVM (Model-View-ViewModel): 0.9190
+- Clean Architecture: 0.9119
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\plugins\sql-agent\SQLConnectors\utils.js
+- MVC (Model-View-Controller): 0.7987
+- MVVM (Model-View-ViewModel): 0.6695
+- Clean Architecture: 0.6140
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\providers\ai-provider.js
+- MVC (Model-View-Controller): 0.8736
+- MVVM (Model-View-ViewModel): 0.8695
+- Clean Architecture: 0.8038
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\providers\anthropic.js
+- MVC (Model-View-Controller): 0.9797
+- MVVM (Model-View-ViewModel): 0.9686
+- Clean Architecture: 0.9601
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\providers\apipie.js
+- MVC (Model-View-Controller): 0.9672
+- MVVM (Model-View-ViewModel): 0.8102
+- Clean Architecture: 0.6987
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\providers\azure.js
+- MVC (Model-View-Controller): 0.8118
+- MVVM (Model-View-ViewModel): 0.7278
+- Clean Architecture: 0.6295
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\providers\bedrock.js
+- MVC (Model-View-Controller): 0.9554
+- MVVM (Model-View-ViewModel): 0.9551
+- Clean Architecture: 0.9386
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\providers\cometapi.js
+- MVC (Model-View-Controller): 0.9691
+- MVVM (Model-View-ViewModel): 0.6720
+- Clean Architecture: 0.5071
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\providers\deepseek.js
+- MVC (Model-View-Controller): 0.9352
+- MVVM (Model-View-ViewModel): 0.8231
+- Clean Architecture: 0.4952
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\providers\dellProAiStudio.js
+- MVC (Model-View-Controller): 0.9605
+- MVVM (Model-View-ViewModel): 0.7635
+- Clean Architecture: 0.6682
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\providers\fireworksai.js
+- MVC (Model-View-Controller): 0.9633
+- MVVM (Model-View-ViewModel): 0.7583
+- Clean Architecture: 0.6618
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\providers\foundry.js
+- MVC (Model-View-Controller): 0.9773
+- MVVM (Model-View-ViewModel): 0.7646
+- Clean Architecture: 0.6232
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\providers\gemini.js
+- MVC (Model-View-Controller): 0.8286
+- MVVM (Model-View-ViewModel): 0.7532
+- Clean Architecture: 0.5131
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\providers\genericOpenAi.js
+- MVC (Model-View-Controller): 0.9910
+- MVVM (Model-View-ViewModel): 0.9402
+- Clean Architecture: 0.9133
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\providers\groq.js
+- MVC (Model-View-Controller): 0.8292
+- MVVM (Model-View-ViewModel): 0.5731
+- Clean Architecture: 0.4627
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\providers\index.js
+- MVC (Model-View-Controller): 0.9620
+- MVVM (Model-View-ViewModel): 0.9499
+- Clean Architecture: 0.9390
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\providers\koboldcpp.js
+- MVC (Model-View-Controller): 0.8397
+- MVVM (Model-View-ViewModel): 0.5912
+- Clean Architecture: 0.4601
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\providers\litellm.js
+- MVC (Model-View-Controller): 0.9437
+- MVVM (Model-View-ViewModel): 0.7025
+- Clean Architecture: 0.6958
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\providers\lmstudio.js
+- MVC (Model-View-Controller): 0.9788
+- MVVM (Model-View-ViewModel): 0.7871
+- Clean Architecture: 0.5741
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\providers\localai.js
+- MVC (Model-View-Controller): 0.9765
+- MVVM (Model-View-ViewModel): 0.8545
+- Clean Architecture: 0.8183
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\providers\mistral.js
+- MVC (Model-View-Controller): 0.9716
+- MVVM (Model-View-ViewModel): 0.8306
+- Clean Architecture: 0.5840
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\providers\moonshotAi.js
+- MVC (Model-View-Controller): 0.9470
+- MVVM (Model-View-ViewModel): 0.8387
+- Clean Architecture: 0.6118
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\providers\novita.js
+- MVC (Model-View-Controller): 0.9511
+- MVVM (Model-View-ViewModel): 0.6686
+- Clean Architecture: 0.5879
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\providers\nvidiaNim.js
+- MVC (Model-View-Controller): 0.9775
+- MVVM (Model-View-ViewModel): 0.7639
+- Clean Architecture: 0.5243
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\providers\ollama.js
+- MVC (Model-View-Controller): 0.9801
+- MVVM (Model-View-ViewModel): 0.8834
+- Clean Architecture: 0.8168
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\providers\openai.js
+- MVC (Model-View-Controller): 0.8890
+- MVVM (Model-View-ViewModel): 0.7930
+- Clean Architecture: 0.7905
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\providers\openrouter.js
+- MVC (Model-View-Controller): 0.9479
+- MVVM (Model-View-ViewModel): 0.7504
+- Clean Architecture: 0.5426
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\providers\perplexity.js
+- MVC (Model-View-Controller): 0.9402
+- MVVM (Model-View-ViewModel): 0.7490
+- Clean Architecture: 0.7361
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\providers\ppio.js
+- MVC (Model-View-Controller): 0.8794
+- MVVM (Model-View-ViewModel): 0.7126
+- Clean Architecture: 0.4731
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\providers\textgenwebui.js
+- MVC (Model-View-Controller): 0.8854
+- MVVM (Model-View-ViewModel): 0.6270
+- Clean Architecture: 0.5196
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\providers\togetherai.js
+- MVC (Model-View-Controller): 0.8852
+- MVVM (Model-View-ViewModel): 0.7705
+- Clean Architecture: 0.7330
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\providers\xai.js
+- MVC (Model-View-Controller): 0.9623
+- MVVM (Model-View-ViewModel): 0.8750
+- Clean Architecture: 0.7256
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\providers\helpers\classes.js
+- MVC (Model-View-Controller): 0.4355
+- MVVM (Model-View-ViewModel): 0.3800
+- Clean Architecture: 0.2645
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\providers\helpers\untooled.js
+- MVC (Model-View-Controller): 0.9760
+- MVVM (Model-View-ViewModel): 0.8023
+- Clean Architecture: 0.7528
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\utils\dedupe.js
+- MVC (Model-View-Controller): 0.8931
+- MVVM (Model-View-ViewModel): 0.6865
+- Clean Architecture: 0.6759
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\agents\aibitat\utils\summarize.js
+- MVC (Model-View-Controller): 0.9464
+- MVVM (Model-View-ViewModel): 0.7257
+- Clean Architecture: 0.5435
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\AiProviders\anthropic\index.js
+- MVC (Model-View-Controller): 0.9118
+- MVVM (Model-View-ViewModel): 0.8893
+- Clean Architecture: 0.8694
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\AiProviders\apipie\index.js
+- MVC (Model-View-Controller): 0.8552
+- MVVM (Model-View-ViewModel): 0.6840
+- Clean Architecture: 0.6037
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\AiProviders\azureOpenAi\index.js
+- MVC (Model-View-Controller): 0.9788
+- MVVM (Model-View-ViewModel): 0.9785
+- Clean Architecture: 0.9699
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\AiProviders\bedrock\index.js
+- MVC (Model-View-Controller): 0.9869
+- MVVM (Model-View-ViewModel): 0.9795
+- Clean Architecture: 0.9777
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\AiProviders\bedrock\utils.js
+- MVC (Model-View-Controller): 0.9198
+- MVVM (Model-View-ViewModel): 0.8968
+- Clean Architecture: 0.8400
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\AiProviders\cohere\index.js
+- MVC (Model-View-Controller): 0.5579
+- MVVM (Model-View-ViewModel): 0.5335
+- Clean Architecture: 0.4502
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\AiProviders\cometapi\constants.js
+- MVC (Model-View-Controller): 0.5659
+- MVVM (Model-View-ViewModel): 0.4659
+- Clean Architecture: 0.1694
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\AiProviders\cometapi\index.js
+- MVC (Model-View-Controller): 0.9873
+- MVVM (Model-View-ViewModel): 0.9776
+- Clean Architecture: 0.9391
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\AiProviders\deepseek\index.js
+- MVC (Model-View-Controller): 0.9873
+- MVVM (Model-View-ViewModel): 0.9813
+- Clean Architecture: 0.9616
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\AiProviders\dellProAiStudio\index.js
+- MVC (Model-View-Controller): 0.9783
+- MVVM (Model-View-ViewModel): 0.9648
+- Clean Architecture: 0.8700
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\AiProviders\fireworksAi\index.js
+- MVC (Model-View-Controller): 0.8539
+- MVVM (Model-View-ViewModel): 0.6837
+- Clean Architecture: 0.6438
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\AiProviders\foundry\index.js
+- MVC (Model-View-Controller): 0.7652
+- MVVM (Model-View-ViewModel): 0.5839
+- Clean Architecture: 0.5502
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\AiProviders\gemini\defaultModels.js
+- MVC (Model-View-Controller): 0.8977
+- MVVM (Model-View-ViewModel): 0.8402
+- Clean Architecture: 0.8369
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\AiProviders\gemini\index.js
+- MVC (Model-View-Controller): 0.9709
+- MVVM (Model-View-ViewModel): 0.8603
+- Clean Architecture: 0.7879
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\AiProviders\genericOpenAi\index.js
+- MVC (Model-View-Controller): 0.9877
+- MVVM (Model-View-ViewModel): 0.9851
+- Clean Architecture: 0.9845
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\AiProviders\groq\index.js
+- MVC (Model-View-Controller): 0.9623
+- MVVM (Model-View-ViewModel): 0.9606
+- Clean Architecture: 0.9544
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\AiProviders\huggingface\index.js
+- MVC (Model-View-Controller): 0.9078
+- MVVM (Model-View-ViewModel): 0.8541
+- Clean Architecture: 0.7531
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\AiProviders\koboldCPP\index.js
+- MVC (Model-View-Controller): 0.9510
+- MVVM (Model-View-ViewModel): 0.9314
+- Clean Architecture: 0.9159
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\AiProviders\liteLLM\index.js
+- MVC (Model-View-Controller): 0.9258
+- MVVM (Model-View-ViewModel): 0.8663
+- Clean Architecture: 0.5900
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\AiProviders\lmStudio\index.js
+- MVC (Model-View-Controller): 0.9493
+- MVVM (Model-View-ViewModel): 0.9008
+- Clean Architecture: 0.8272
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\AiProviders\localAi\index.js
+- MVC (Model-View-Controller): 0.9944
+- MVVM (Model-View-ViewModel): 0.9871
+- Clean Architecture: 0.9870
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\AiProviders\mistral\index.js
+- MVC (Model-View-Controller): 0.9871
+- MVVM (Model-View-ViewModel): 0.9778
+- Clean Architecture: 0.9533
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\AiProviders\modelMap\index.js
+- MVC (Model-View-Controller): 0.9492
+- MVVM (Model-View-ViewModel): 0.9476
+- Clean Architecture: 0.9055
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\AiProviders\modelMap\legacy.js
+- MVC (Model-View-Controller): 0.9237
+- MVVM (Model-View-ViewModel): 0.8916
+- Clean Architecture: 0.8408
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\AiProviders\moonshotAi\index.js
+- MVC (Model-View-Controller): 0.9615
+- MVVM (Model-View-ViewModel): 0.9382
+- Clean Architecture: 0.8207
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\AiProviders\novita\index.js
+- MVC (Model-View-Controller): 0.9902
+- MVVM (Model-View-ViewModel): 0.9831
+- Clean Architecture: 0.9235
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\AiProviders\nvidiaNim\index.js
+- MVC (Model-View-Controller): 0.9947
+- MVVM (Model-View-ViewModel): 0.9848
+- Clean Architecture: 0.9665
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\AiProviders\ollama\index.js
+- MVC (Model-View-Controller): 0.6041
+- MVVM (Model-View-ViewModel): 0.5906
+- Clean Architecture: 0.4367
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\AiProviders\openAi\index.js
+- MVC (Model-View-Controller): 0.8987
+- MVVM (Model-View-ViewModel): 0.8183
+- Clean Architecture: 0.8046
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\AiProviders\openRouter\index.js
+- MVC (Model-View-Controller): 0.8962
+- MVVM (Model-View-ViewModel): 0.8172
+- Clean Architecture: 0.6912
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\AiProviders\perplexity\index.js
+- MVC (Model-View-Controller): 0.9696
+- MVVM (Model-View-ViewModel): 0.9482
+- Clean Architecture: 0.8854
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\AiProviders\perplexity\models.js
+- MVC (Model-View-Controller): 0.7434
+- MVVM (Model-View-ViewModel): 0.6640
+- Clean Architecture: 0.5283
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\AiProviders\ppio\index.js
+- MVC (Model-View-Controller): 0.9798
+- MVVM (Model-View-ViewModel): 0.9654
+- Clean Architecture: 0.9630
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\AiProviders\textGenWebUI\index.js
+- MVC (Model-View-Controller): 0.9475
+- MVVM (Model-View-ViewModel): 0.9006
+- Clean Architecture: 0.8721
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\AiProviders\togetherAi\index.js
+- MVC (Model-View-Controller): 0.9855
+- MVVM (Model-View-ViewModel): 0.9042
+- Clean Architecture: 0.5190
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\AiProviders\xai\index.js
+- MVC (Model-View-Controller): 0.9803
+- MVVM (Model-View-ViewModel): 0.9479
+- Clean Architecture: 0.8909
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\BackgroundWorkers\index.js
+- MVC (Model-View-Controller): 0.9492
+- MVVM (Model-View-ViewModel): 0.8065
+- Clean Architecture: 0.6368
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\boot\eagerLoadContextWindows.js
+- MVC (Model-View-Controller): 0.9491
+- MVVM (Model-View-ViewModel): 0.6880
+- Clean Architecture: 0.4857
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\boot\index.js
+- MVC (Model-View-Controller): 0.9851
+- MVVM (Model-View-ViewModel): 0.9650
+- Clean Architecture: 0.9139
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\boot\MetaGenerator.js
+- MVC (Model-View-Controller): 0.6781
+- MVVM (Model-View-ViewModel): 0.4424
+- Clean Architecture: 0.4108
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\chats\agents.js
+- MVC (Model-View-Controller): 0.8781
+- MVVM (Model-View-ViewModel): 0.5751
+- Clean Architecture: 0.4805
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\chats\apiChatHandler.js
+- MVC (Model-View-Controller): 0.9121
+- MVVM (Model-View-ViewModel): 0.7857
+- Clean Architecture: 0.4316
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\chats\embed.js
+- MVC (Model-View-Controller): 0.9545
+- MVVM (Model-View-ViewModel): 0.7326
+- Clean Architecture: 0.3502
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\chats\index.js
+- MVC (Model-View-Controller): 0.9077
+- MVVM (Model-View-ViewModel): 0.7473
+- Clean Architecture: 0.4796
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\chats\openaiCompatible.js
+- MVC (Model-View-Controller): 0.9827
+- MVVM (Model-View-ViewModel): 0.9430
+- Clean Architecture: 0.8293
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\chats\stream.js
+- MVC (Model-View-Controller): 0.9922
+- MVVM (Model-View-ViewModel): 0.9159
+- Clean Architecture: 0.8822
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\chats\commands\reset.js
+- MVC (Model-View-Controller): 0.9781
+- MVVM (Model-View-ViewModel): 0.8326
+- Clean Architecture: 0.6782
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\collectorApi\index.js
+- MVC (Model-View-Controller): 0.9327
+- MVVM (Model-View-ViewModel): 0.7961
+- Clean Architecture: 0.6165
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\comKey\index.js
+- MVC (Model-View-Controller): 0.8099
+- MVVM (Model-View-ViewModel): 0.3762
+- Clean Architecture: 0.3707
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\database\index.js
+- MVC (Model-View-Controller): 0.9341
+- MVVM (Model-View-ViewModel): 0.9097
+- Clean Architecture: 0.5411
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\DocumentManager\index.js
+- MVC (Model-View-Controller): 0.6054
+- MVVM (Model-View-ViewModel): 0.1636
+- Clean Architecture: 0.1003
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\EmbeddingEngines\azureOpenAi\index.js
+- MVC (Model-View-Controller): 0.9549
+- MVVM (Model-View-ViewModel): 0.9520
+- Clean Architecture: 0.8974
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\EmbeddingEngines\cohere\index.js
+- MVC (Model-View-Controller): 0.9671
+- MVVM (Model-View-ViewModel): 0.9560
+- Clean Architecture: 0.9376
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\EmbeddingEngines\gemini\index.js
+- MVC (Model-View-Controller): 0.9307
+- MVVM (Model-View-ViewModel): 0.8044
+- Clean Architecture: 0.5931
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\EmbeddingEngines\genericOpenAi\index.js
+- MVC (Model-View-Controller): 0.8029
+- MVVM (Model-View-ViewModel): 0.7807
+- Clean Architecture: 0.6695
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\EmbeddingEngines\liteLLM\index.js
+- MVC (Model-View-Controller): 0.9150
+- MVVM (Model-View-ViewModel): 0.8643
+- Clean Architecture: 0.8373
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\EmbeddingEngines\lmstudio\index.js
+- MVC (Model-View-Controller): 0.9950
+- MVVM (Model-View-ViewModel): 0.9416
+- Clean Architecture: 0.8914
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\EmbeddingEngines\localAi\index.js
+- MVC (Model-View-Controller): 0.8809
+- MVVM (Model-View-ViewModel): 0.8787
+- Clean Architecture: 0.8725
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\EmbeddingEngines\mistral\index.js
+- MVC (Model-View-Controller): 0.9644
+- MVVM (Model-View-ViewModel): 0.9234
+- Clean Architecture: 0.6342
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\EmbeddingEngines\native\constants.js
+- MVC (Model-View-Controller): 0.8037
+- MVVM (Model-View-ViewModel): 0.5633
+- Clean Architecture: 0.1640
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\EmbeddingEngines\native\index.js
+- MVC (Model-View-Controller): 0.8577
+- MVVM (Model-View-ViewModel): 0.7919
+- Clean Architecture: 0.5321
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\EmbeddingEngines\ollama\index.js
+- MVC (Model-View-Controller): 0.9290
+- MVVM (Model-View-ViewModel): 0.9120
+- Clean Architecture: 0.7871
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\EmbeddingEngines\openAi\index.js
+- MVC (Model-View-Controller): 0.9657
+- MVVM (Model-View-ViewModel): 0.9597
+- Clean Architecture: 0.9476
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\EmbeddingEngines\voyageAi\index.js
+- MVC (Model-View-Controller): 0.9935
+- MVVM (Model-View-ViewModel): 0.9686
+- Clean Architecture: 0.7949
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\EmbeddingRerankers\native\index.js
+- MVC (Model-View-Controller): 0.9354
+- MVVM (Model-View-ViewModel): 0.9113
+- Clean Architecture: 0.7475
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\EncryptionManager\index.js
+- MVC (Model-View-Controller): 0.9690
+- MVVM (Model-View-ViewModel): 0.8247
+- Clean Architecture: 0.7988
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\files\index.js
+- MVC (Model-View-Controller): 0.9795
+- MVVM (Model-View-ViewModel): 0.9448
+- Clean Architecture: 0.9140
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\files\logo.js
+- MVC (Model-View-Controller): 0.9665
+- MVVM (Model-View-ViewModel): 0.9400
+- Clean Architecture: 0.6544
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\files\multer.js
+- MVC (Model-View-Controller): 0.7606
+- MVVM (Model-View-ViewModel): 0.6837
+- Clean Architecture: 0.4282
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\files\pfp.js
+- MVC (Model-View-Controller): 0.9950
+- MVVM (Model-View-ViewModel): 0.9899
+- Clean Architecture: 0.9587
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\files\purgeDocument.js
+- MVC (Model-View-Controller): 0.9831
+- MVVM (Model-View-ViewModel): 0.7725
+- Clean Architecture: 0.4337
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\helpers\camelcase.js
+- MVC (Model-View-Controller): 0.8171
+- MVVM (Model-View-ViewModel): 0.7116
+- Clean Architecture: 0.4417
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\helpers\customModels.js
+- MVC (Model-View-Controller): 0.9956
+- MVVM (Model-View-ViewModel): 0.8800
+- Clean Architecture: 0.7873
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\helpers\index.js
+- MVC (Model-View-Controller): 0.8291
+- MVVM (Model-View-ViewModel): 0.7432
+- Clean Architecture: 0.5279
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\helpers\portAvailabilityChecker.js
+- MVC (Model-View-Controller): 0.9808
+- MVVM (Model-View-ViewModel): 0.9267
+- Clean Architecture: 0.6558
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\helpers\search.js
+- MVC (Model-View-Controller): 0.7834
+- MVVM (Model-View-ViewModel): 0.6503
+- Clean Architecture: 0.5490
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\helpers\tiktoken.js
+- MVC (Model-View-Controller): 0.5735
+- MVVM (Model-View-ViewModel): 0.5575
+- Clean Architecture: 0.5443
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\helpers\updateENV.js
+- MVC (Model-View-Controller): 0.8841
+- MVVM (Model-View-ViewModel): 0.8685
+- Clean Architecture: 0.8585
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\helpers\admin\index.js
+- MVC (Model-View-Controller): 0.6801
+- MVVM (Model-View-ViewModel): 0.3857
+- Clean Architecture: 0.1709
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\helpers\chat\convertTo.js
+- MVC (Model-View-Controller): 0.9535
+- MVVM (Model-View-ViewModel): 0.9527
+- Clean Architecture: 0.8536
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\helpers\chat\index.js
+- MVC (Model-View-Controller): 0.8164
+- MVVM (Model-View-ViewModel): 0.3999
+- Clean Architecture: 0.2964
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\helpers\chat\LLMPerformanceMonitor.js
+- MVC (Model-View-Controller): 0.9716
+- MVVM (Model-View-ViewModel): 0.6847
+- Clean Architecture: 0.5994
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\helpers\chat\responses.js
+- MVC (Model-View-Controller): 0.8819
+- MVVM (Model-View-ViewModel): 0.5282
+- Clean Architecture: 0.3761
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\http\index.js
+- MVC (Model-View-Controller): 0.9794
+- MVVM (Model-View-ViewModel): 0.8671
+- Clean Architecture: 0.7770
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\logger\index.js
+- MVC (Model-View-Controller): 0.8453
+- MVVM (Model-View-ViewModel): 0.0961
+- Clean Architecture: 0.0761
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\MCP\index.js
+- MVC (Model-View-Controller): 0.9282
+- MVVM (Model-View-ViewModel): 0.8765
+- Clean Architecture: 0.7924
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\MCP\hypervisor\index.js
+- MVC (Model-View-Controller): 0.4748
+- MVVM (Model-View-ViewModel): 0.3631
+- Clean Architecture: 0.2298
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\middleware\chatHistoryViewable.js
+- MVC (Model-View-Controller): 0.7808
+- MVVM (Model-View-ViewModel): 0.6381
+- Clean Architecture: 0.4682
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\middleware\communityHubDownloadsEnabled.js
+- MVC (Model-View-Controller): 0.9150
+- MVVM (Model-View-ViewModel): 0.9129
+- Clean Architecture: 0.7504
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\middleware\embedMiddleware.js
+- MVC (Model-View-Controller): 0.9630
+- MVVM (Model-View-ViewModel): 0.7296
+- Clean Architecture: 0.6030
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\middleware\featureFlagEnabled.js
+- MVC (Model-View-Controller): 0.9418
+- MVVM (Model-View-ViewModel): 0.5080
+- Clean Architecture: 0.3984
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\middleware\isSupportedRepoProviders.js
+- MVC (Model-View-Controller): 0.6978
+- MVVM (Model-View-ViewModel): 0.6277
+- Clean Architecture: 0.5985
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\middleware\multiUserProtected.js
+- MVC (Model-View-Controller): 0.8065
+- MVVM (Model-View-ViewModel): 0.4768
+- Clean Architecture: 0.3151
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\middleware\simpleSSOEnabled.js
+- MVC (Model-View-Controller): 0.8993
+- MVVM (Model-View-ViewModel): 0.3584
+- Clean Architecture: 0.3581
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\middleware\validApiKey.js
+- MVC (Model-View-Controller): 0.9906
+- MVVM (Model-View-ViewModel): 0.7200
+- Clean Architecture: 0.5987
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\middleware\validatedRequest.js
+- MVC (Model-View-Controller): 0.9663
+- MVVM (Model-View-ViewModel): 0.7002
+- Clean Architecture: 0.4817
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\middleware\validBrowserExtensionApiKey.js
+- MVC (Model-View-Controller): 0.9893
+- MVVM (Model-View-ViewModel): 0.9033
+- Clean Architecture: 0.6268
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\middleware\validWorkspace.js
+- MVC (Model-View-Controller): 0.9749
+- MVVM (Model-View-ViewModel): 0.9160
+- Clean Architecture: 0.8212
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\PasswordRecovery\index.js
+- MVC (Model-View-Controller): 0.9464
+- MVVM (Model-View-ViewModel): 0.6956
+- Clean Architecture: 0.5889
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\prisma\index.js
+- MVC (Model-View-Controller): 0.8303
+- MVVM (Model-View-ViewModel): 0.7361
+- Clean Architecture: 0.2069
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\telemetry\index.js
+- MVC (Model-View-Controller): 0.9841
+- MVVM (Model-View-ViewModel): 0.7537
+- Clean Architecture: 0.2351
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\TextSplitter\index.js
+- MVC (Model-View-Controller): 0.6023
+- MVVM (Model-View-ViewModel): 0.4871
+- Clean Architecture: 0.3978
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\TextToSpeech\index.js
+- MVC (Model-View-Controller): 0.8488
+- MVVM (Model-View-ViewModel): 0.8196
+- Clean Architecture: 0.6120
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\TextToSpeech\elevenLabs\index.js
+- MVC (Model-View-Controller): 0.9542
+- MVVM (Model-View-ViewModel): 0.8888
+- Clean Architecture: 0.7440
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\TextToSpeech\openAi\index.js
+- MVC (Model-View-Controller): 0.9679
+- MVVM (Model-View-ViewModel): 0.8504
+- Clean Architecture: 0.5361
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\TextToSpeech\openAiGeneric\index.js
+- MVC (Model-View-Controller): 0.9796
+- MVVM (Model-View-ViewModel): 0.9727
+- Clean Architecture: 0.9617
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\vectorDbProviders\astra\index.js
+- MVC (Model-View-Controller): 0.9108
+- MVVM (Model-View-ViewModel): 0.8636
+- Clean Architecture: 0.4299
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\vectorDbProviders\chroma\index.js
+- MVC (Model-View-Controller): 0.9344
+- MVVM (Model-View-ViewModel): 0.7042
+- Clean Architecture: 0.6679
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\vectorDbProviders\chromacloud\index.js
+- MVC (Model-View-Controller): 0.9808
+- MVVM (Model-View-ViewModel): 0.9650
+- Clean Architecture: 0.7229
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\vectorDbProviders\lance\index.js
+- MVC (Model-View-Controller): 0.9836
+- MVVM (Model-View-ViewModel): 0.9247
+- Clean Architecture: 0.7617
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\vectorDbProviders\milvus\index.js
+- MVC (Model-View-Controller): 0.9857
+- MVVM (Model-View-ViewModel): 0.9545
+- Clean Architecture: 0.7856
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\vectorDbProviders\pgvector\index.js
+- MVC (Model-View-Controller): 0.8742
+- MVVM (Model-View-ViewModel): 0.8229
+- Clean Architecture: 0.6738
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\vectorDbProviders\pinecone\index.js
+- MVC (Model-View-Controller): 0.9825
+- MVVM (Model-View-ViewModel): 0.9469
+- Clean Architecture: 0.7632
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\vectorDbProviders\qdrant\index.js
+- MVC (Model-View-Controller): 0.9810
+- MVVM (Model-View-ViewModel): 0.9689
+- Clean Architecture: 0.7364
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\vectorDbProviders\weaviate\index.js
+- MVC (Model-View-Controller): 0.9722
+- MVVM (Model-View-ViewModel): 0.9041
+- Clean Architecture: 0.8437
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\vectorDbProviders\zilliz\index.js
+- MVC (Model-View-Controller): 0.9697
+- MVVM (Model-View-ViewModel): 0.9176
+- Clean Architecture: 0.6031
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\utils\vectorStore\resetAllVectorStores.js
+- MVC (Model-View-Controller): 0.9604
+- MVVM (Model-View-ViewModel): 0.8107
+- Clean Architecture: 0.5222
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\__tests__\models\systemPromptVariables.test.js
+- MVC (Model-View-Controller): 0.7518
+- MVVM (Model-View-ViewModel): 0.7342
+- Clean Architecture: 0.3653
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\__tests__\utils\agentFlows\executor.test.js
+- MVC (Model-View-Controller): 0.5759
+- MVVM (Model-View-ViewModel): 0.5640
+- Clean Architecture: 0.4021
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\__tests__\utils\agents\defaults.test.js
+- MVC (Model-View-Controller): 0.9347
+- MVVM (Model-View-ViewModel): 0.7917
+- Clean Architecture: 0.4505
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\__tests__\utils\agents\aibitat\providers\helpers\untooled.test.js
+- MVC (Model-View-Controller): 0.9250
+- MVVM (Model-View-ViewModel): 0.8515
+- Clean Architecture: 0.7248
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\__tests__\utils\chats\openaiCompatible.test.js
+- MVC (Model-View-Controller): 0.8971
+- MVVM (Model-View-ViewModel): 0.8126
+- Clean Architecture: 0.3941
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\__tests__\utils\chats\openaiHelpers.test.js
+- MVC (Model-View-Controller): 0.9478
+- MVVM (Model-View-ViewModel): 0.9368
+- Clean Architecture: 0.9334
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\__tests__\utils\helpers\convertTo.test.js
+- MVC (Model-View-Controller): 0.9840
+- MVVM (Model-View-ViewModel): 0.6816
+- Clean Architecture: 0.6673
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\__tests__\utils\safeJSONStringify\safeJSONStringify.test.js
+- MVC (Model-View-Controller): 0.8697
+- MVVM (Model-View-ViewModel): 0.7583
+- Clean Architecture: 0.4119
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\__tests__\utils\SQLConnectors\connectionParser.test.js
+- MVC (Model-View-Controller): 0.8856
+- MVVM (Model-View-ViewModel): 0.7496
+- Clean Architecture: 0.6156
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\__tests__\utils\TextSplitter\index.test.js
+- MVC (Model-View-Controller): 0.9792
+- MVVM (Model-View-ViewModel): 0.7656
+- Clean Architecture: 0.5831
+
+Arquivo: C:\Users\Breno\Documents\Meu Fork\Engenharia_SoftwareII_2025-2_T02_Anything_llm\src\anything-llm\server\__tests__\utils\vectorDbProviders\pgvector\index.test.js
+- MVC (Model-View-Controller): 0.8564
+- MVVM (Model-View-ViewModel): 0.6944
+- Clean Architecture: 0.6614
