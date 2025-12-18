@@ -5,7 +5,7 @@ Abaixo está a tabela detalhada de contribuição dos integrantes:
 
 | Nome                                   | Matrícula    | Contribuição                                                                                                |
 | -------------------------------------- | ------------ | ----------------------------------------------------------------------------------------------------------- |
-| **Breno Henrique Do Carmo Santos**     | 202200078737 | Pesquisa, teste de modelos, padronização dos modelos, elaboração do tutorial e edição do vídeo e documento. |
+| **Breno Henrique Do Carmo Santos**     | 202200078737 | Pesquisa, teste de modelos, elaboração do tutorial, edição do vídeo e documento.                            |
 | **Carla Stefany R. Santos**            | 202400060148 | Pesquisa, teste de modelos, elaboração do tutorial, edição e formatação do documento.                       |
 | **Fernanda Karoliny Santos Silva**     | 202200092431 | Pesquisa, edição do documento, formatação do documento.                                                     |
 | **João Paulo Menezes Machado**         | 202300038743 | Pesquisa, análise do projeto, edição do documento.                                                          |
