@@ -35,16 +35,16 @@ MODEL_SCRIPTS = {
           os.path.join(MODELOS_DIR, "bart_mnli+entrada_reduzida.py")),
 
     "2": ("LLaMA",
-          os.path.join(MODELOS_DIR, "llama.py")),
+          os.path.join(MODELOS_DIR, "Llama.py")),
 
     "3": ("Qwen",
-          os.path.join(MODELOS_DIR, "qwen.py")),
+          os.path.join(MODELOS_DIR, "Qwen.py")),
 
     "4": ("All-MiniLM-L6-v2",
           os.path.join(MODELOS_DIR, "all_minilm_l6_v2.py")),
     
     "5": ("paraphrase-MiniLM-L3-v2",
-          os.path.join(MODELOS_DIR, "paraphrase-minilm-l3-v2.py")),
+          os.path.join(MODELOS_DIR, "paraphrase_minilm_l3_v2.py")),
 
 
     "0": ("Sair", None)
