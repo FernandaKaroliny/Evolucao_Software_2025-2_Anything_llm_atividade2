@@ -1,3 +1,34 @@
-TEMPO_DE_EXECUCAO=7.72604863000015
+TEMPO_DE_EXECUCAO=43.748284798999975
 
-A estratégia de branch utilizada no projeto AnythingLLM é o "git flow". O git flow é um modelo de gerenciamento de branches que foi projetado para facilitar o desenvolvimento de software com uma equipe. Ele define um conjunto de branches principais e secundárias que são usados para diferentes fases do ciclo de vida de um projeto, como desenvolvimento, teste e lançamento.
+### Estratégia de Branching
+
+A estratégia de branching utilizada no repositório AnythingLLM é o **Git Flow**. O Git Flow é uma abordagem popular para gerenciar branches em projetos de software que envolvem desenvolvimento de software em equipe. Aqui estão os principais pontos da estratégia Git Flow:
+
+1. **Main Branch**: O `main` ou `master` é o branch principal onde todas as versões estáveis do código são mantidas. Este branch é usado para lançar novas versões do software.
+
+2. **Feature Branches**: As novas funcionalidades são desenvolvidas em branches separados. Estes branches são criados a partir do `main` e são nomeados com um prefixo `feature/`, por exemplo, `feature/implement-new-feature`.
+
+3. **Release Branches**: Quando uma nova versão estável é planejada, um branch de release é criado a partir do `main`. Este branch é usado para fazer ajustes finais antes do lançamento da versão.
+
+4. **Hotfix Branches**: Caso ocorra um bug em uma versão estável, um branch de hotfix é criado a partir do `main` e é usado para corrigir o problema.
+
+5. **Development Branch**: Um branch de desenvolvimento (`develop`) é usado para manter o código mais atualizado e pode ser usado para testar novas funcionalidades antes de serem incorporadas ao `main`.
+
+### Estratégia de Releases
+
+A estratégia de releases utilizada no repositório AnythingLLM é baseada em **tags**. Aqui estão os principais pontos da estratégia de releases:
+
+1. **Tags**: Cada vez que uma nova versão estável é lançada, uma tag é criada no repositório. A tag tem o formato `v<major>.<minor>.<patch>`, onde:
+   - `<major>` é a versão principal.
+   - `<minor>` é a versão secundária.
+   - `<patch>` é a versão de correção.
+
+2. **Branches de Release**: Após a criação da tag, um novo branch é criado a partir da tag. Este branch é usado para fazer ajustes finais antes do lançamento da versão.
+
+3. **Lançamento**: Quando a tag é criada, o repositório é atualizado para refletir a nova versão. Além disso, o repositório de Docker e GitHub Container Registry também são atualizados para refletir a nova versão.
+
+4. **Atualização das Versões**: A versão do repositório é atualizada no arquivo `package.json` e no arquivo `README.md` para refletir a nova versão.
+
+5. **Publicação**: O repositório é publicado em Docker Hub e GitHub Container Registry para que os usuários possam baixar a nova versão.
+
+Essas estratégias ajudam a manter o controle do código, facilitar o lançamento de novas versões e garantir que o código esteja sempre atualizado e de alta qualidade.
