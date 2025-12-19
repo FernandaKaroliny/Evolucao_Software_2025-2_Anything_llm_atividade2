@@ -126,7 +126,7 @@ pip install -r requirements.txt
 
 ### **3️⃣ Rodar o pipeline principal**
 ```
-python src/run.py
+python src/runModels.py
 ```
 
 Este script realiza:
