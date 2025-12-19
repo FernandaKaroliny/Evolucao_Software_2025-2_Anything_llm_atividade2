@@ -209,6 +209,8 @@ model = AutoModelForCausalLM.from_pretrained(
 
 mostrar_uso_memoria()
 
+prompt2()
+"""
 while (True):
    print("Escolha o prompt que deseja utilizar:")
    print("1 - Análise de arquitetura de projeto de software")
@@ -220,7 +222,7 @@ while (True):
       prompt = prompt1()
    elif op == "2":
       prompt = prompt2()
-
+"""
 
 
 
