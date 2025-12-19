@@ -22,21 +22,15 @@ MAX_RESUMO_CHARS = 8000
 # =========================
 
 PADROES_RELEASE = [
-    "Continuous Deployment (every code change that passes automated tests is automatically deployed to production without manual approval)",
-    "Continuous Delivery (code is continuously integrated and tested, remaining ready for deployment at any time, but releases require a manual decision)",
-    "Scheduled Releases (software is released at predefined time intervals, such as weekly, monthly, or at fixed calendar dates)",
-    "Big Bang Release (a large set of features is released simultaneously in a single major deployment event)",
-    "Canary Release (a new version is gradually rolled out to a small subset of users to monitor behavior before full deployment)",
-    "Blue-Green Deployment (two identical production environments are maintained, allowing instant traffic switch between old and new versions)",
-    "Rolling Release (updates are deployed incrementally across servers or users without downtime, replacing old versions progressively)"
+    "Rapid Releases (software is released very frequently, often in short cycles, enabling fast delivery of new features and fixes with minimal delay between versions)",
+    "Release Train (software releases follow a fixed and regular schedule, where features that are ready board the next scheduled release, while unfinished features wait for the following train)",
+    "Long-Term Support - LTS (specific software versions are designated for long-term maintenance, receiving bug fixes and security updates for an extended period while new features are developed in newer versions)"
 ]
 
 PADROES_FLUXO = [
-    "Git Flow (uses multiple long-lived branches such as main, develop, feature, release, and hotfix to manage parallel development and releases)", 
+    "Git Flow (uses multiple long-lived branches such as main, develop, feature, release, and hotfix to manage parallel development and releases)",
     "GitHub Flow (a lightweight workflow based on a single main branch with short-lived feature branches and pull requests)",
-    "GitLab Flow (extends GitHub Flow by introducing environment-based or release-based branching strategies)", 
     "Trunk-Based Development (developers commit small, frequent changes directly to a shared main branch, relying on feature flags and continuous integration)",
-    "Feature Branch Workflow (each new feature or change is developed in an isolated branch and merged into the main branch after review)"
 ]
 
 # =========================
