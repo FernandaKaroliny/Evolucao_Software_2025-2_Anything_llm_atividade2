@@ -81,11 +81,6 @@ Modelos utilizados:
 - **Qwen2.5-Coder-1.5B-Instruct** – excelente para análise de arquivos de código
 - **all-MiniLM-L6-v2** – geração de embeddings para similaridade e agrupamento
 
-Cada modelo recebeu como entrada fragmentos do projeto alvo e produziu como saída:
-- Classes detectadas
-- Categorias (Controller, Service, Repository, Utils...)
-- Justificativa textual
-- Relações arquiteturais
 
 Os resultados estão disponíveis em `resultados`.
 
