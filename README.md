@@ -14,12 +14,12 @@ Abaixo está a tabela detalhada de contribuição dos integrantes:
 | **Vinícius Azevedo Peroba**            | 201900076892 | Pesquisa, análise do projeto, apuração dos testes, edição do documento.                                     |
 | **Wendel Alexsander Gomes Menezes**    | 202300027740 | Pesquisa, análise do projeto, apuração dos testes, edição do documento.                                     |
 
-Este repositório contém a implementação completa da Atividade 2 de Engenharia de Software II (2025.2), cujo objetivo é **analisar padrões arquiteturais ao longo da evolução de um projeto real do GitHub utilizando modelos de linguagem (LLMs)**.
+Este repositório contém a implementação completa da Atividade 2 de Engenharia de Software II (2025.2), cujo objetivo é **analisar padrões de gerência de configuração ao longo da evolução de um projeto real do GitHub utilizando modelos de linguagem (LLMs)**.
 
 A equipe desenvolveu um pipeline automatizado capaz de:
 - Baixar e analisar um repositório alvo;
 - Processar seu conteúdo (código-fonte, documentação e estrutura);
-- Executar **5 modelos do Hugging Face** para identificar padrões arquiteturais;
+- Executar **5 modelos do Hugging Face** para identificar padrões de gerência de configuração;
 - Comparar a eficácia dos modelos;
 - Gerar resultados em txt.
 
@@ -156,7 +156,7 @@ Ele contém:
 - Metodologia
 - Resultados e Análise
 - Resultados por Modelo
-- Conclusão
+- Referências
 
 ---
 
