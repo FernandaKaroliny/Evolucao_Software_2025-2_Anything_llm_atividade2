@@ -120,8 +120,8 @@ Este projeto foi executado com os seguintes recursos:
 ## 📌 6. Como Executar o Projeto
 ### **1️⃣ Clonar o repositório**
 ```
-git clone alterar
-cd alterar
+git clone https://github.com/FernandaKaroliny/Evolucao_Software_2025-2_Anything_llm_atividade2
+cd Evolucao_Software_2025-2_Anything_llm_atividade2
 ```
 
 ### **2️⃣ Instalar dependências**
