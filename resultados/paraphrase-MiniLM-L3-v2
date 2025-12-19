@@ -1,0 +1,20 @@
+RESULTADO DA ANÁLISE DO REPOSITÓRIO
+Repositório: Mintplex-Labs/anything-llm
+Data da análise: 2025-12-19T15:30:54.143583
+
+ESTRATÉGIA DE RELEASES:
+Estratégia identificada: Rapid Releases
+
+Scores de similaridade:
+- Rapid Releases: 0.4105
+- Release Train: 0.3179
+- LTS + Current: 0.3135
+- Ad hoc / Irregular: 0.2265
+
+FLUXO DE TRABALHO (BRANCHES)
+Estratégia identificada: Git-flow
+
+Scores de similaridade:
+- Git-flow: 0.3013
+- GitHub Flow: 0.2664
+- Trunk-Based Development: 0.2924
