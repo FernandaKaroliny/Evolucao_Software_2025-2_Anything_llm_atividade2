@@ -1,11 +1,11 @@
-# Anything-LLM – Análise de Padrões Arquiteturais
+# Anything-LLM – Gerência de Configuração
 
 ## 📌 1. Equipe
 Abaixo está a tabela detalhada de contribuição dos integrantes:
 
 | Nome                                   | Matrícula    | Contribuição                                                                                                |
 | -------------------------------------- | ------------ | ----------------------------------------------------------------------------------------------------------- |
-| **Breno Henrique Do Carmo Santos**     | 202200078737 | Pesquisa, teste de modelos, padronização dos modelos, elaboração do tutorial e edição do vídeo e documento. |
+| **Breno Henrique Do Carmo Santos**     | 202200078737 | Pesquisa, teste de modelos, elaboração do tutorial, edição do vídeo e documento.                            |
 | **Carla Stefany R. Santos**            | 202400060148 | Pesquisa, teste de modelos, elaboração do tutorial, edição e formatação do documento.                       |
 | **Fernanda Karoliny Santos Silva**     | 202200092431 | Pesquisa, edição do documento, formatação do documento.                                                     |
 | **João Paulo Menezes Machado**         | 202300038743 | Pesquisa, análise do projeto, edição do documento.                                                          |
@@ -90,6 +90,7 @@ Cada modelo recebeu como entrada fragmentos do projeto alvo e produziu como saí
 Os resultados estão disponíveis em `resultados`.
 
 ## 📌 5. Requisitos do Sistema
+Python 3.12.0
 ### ✔️ Dependências
 Instale todas as dependências com:
 ```
@@ -119,8 +120,8 @@ Este projeto foi executado com os seguintes recursos:
 ## 📌 6. Como Executar o Projeto
 ### **1️⃣ Clonar o repositório**
 ```
-git clone https://github.com/FernandaKaroliny/Engenharia_SoftwareII_2025-2_T02_Anything_llm
-cd Engenharia_SoftwareII_2025-2_T02_Anything_llm
+git clone alterar
+cd alterar
 ```
 
 ### **2️⃣ Instalar dependências**
@@ -144,7 +145,7 @@ Este script realiza:
 
 ## 📌 7. Resultados
 Os resultados são gerados automaticamente após a escolha do modelo:
-- `resultados` → Lista de padrões arquiteturais detectados
+- `resultados` → Lista de Estratégia de Releases e de Ramos
 
 Além disso, o PDF do tutorial contém uma análise aprofundada, incluindo:
 - Comportamento dos modelos
@@ -154,20 +155,15 @@ Além disso, o PDF do tutorial contém uma análise aprofundada, incluindo:
 
 ## 📌 8. Tutorial (Documento Escrito)
 O arquivo PDF completo está em:
-```
-docs/tutorial.pdf
-```
+`/docs`
 Ele contém:
 - Introdução
 - Fundamentação Teórica
 - Metodologia
 - Resultados e Análise
 - Resultados por Modelo
-- Tutorial Individual por modelo
-- Discussão dos padrões identificados
+- Discussões
 - Conclusões
-
-
 
 ---
 
