@@ -25,7 +25,7 @@ A equipe desenvolveu um pipeline automatizado capaz de:
 
 ---
 ## ▶️ Vídeo Da apresentação da equipe:
-- https://drive.google.com/drive/folders/1k_cFVe-c416gxxkyP5GDc-b5KLNITyY1?usp=sharing
+- https://drive.google.com/drive/folders/1YRoKxZvqq5LRCoEJARy2PBDlkY1SYA0q?usp=sharing
 
 
 
@@ -38,7 +38,7 @@ O Anything LLM é uma plataforma open source que permite criar assistentes de IA
 
 O projeto foi escolhido por apresentar:
 - Estrutura modular clara;
-- Utilização de diversas camadas arquiteturais;
+- Um bom histórico de releases;
 - Evolução consistente ao longo do tempo;
 - Relação direta com processamento de linguagem natural.
 
@@ -79,6 +79,7 @@ Modelos utilizados:
 - **Llama-3.2-1B-Instruct** – análise orientada a prompts
 - **Qwen2.5-Coder-1.5B-Instruct** – excelente para análise de arquivos de código
 - **all-MiniLM-L6-v2** – geração de embeddings para similaridade e agrupamento
+- **paraphrase-MiniLM-L3-v2** - voltado para similaridade semântica
 
 
 Os resultados estão disponíveis em `resultados`.
@@ -142,8 +143,8 @@ Os resultados são gerados automaticamente após a escolha do modelo:
 - `resultados` → Lista de Estratégia de Releases e de Ramos
 
 Além disso, o PDF do tutorial contém uma análise aprofundada, incluindo:
-- Comportamento dos modelos
-- Vantagens e limitações
+- Comportamento dos modelos;
+- Dscussões sobre vantagens e limitações.
 
 ---
 
