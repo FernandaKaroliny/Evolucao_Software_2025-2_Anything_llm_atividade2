@@ -5,7 +5,7 @@ Abaixo está a tabela detalhada de contribuição dos integrantes:
 
 | Nome                                   | Matrícula    | Contribuição                                                                                                |
 | -------------------------------------- | ------------ | ----------------------------------------------------------------------------------------------------------- |
-| **Breno Henrique Do Carmo Santos**     | 202200078737 | Pesquisa, teste de modelos, elaboração do tutorial, edição do vídeo e documento.                            |
+| **Breno Henrique Do Carmo Santos**     | 202200078737 | Pesquisa, teste de modelos, elaboração do tutorial e documento.                                             |
 | **Carla Stefany R. Santos**            | 202400060148 | Pesquisa, teste de modelos, elaboração do tutorial, edição e formatação do documento.                       |
 | **Fernanda Karoliny Santos Silva**     | 202200092431 | Pesquisa, edição do documento, formatação do documento.                                                     |
 | **João Paulo Menezes Machado**         | 202300038743 | Pesquisa, análise do projeto, edição do documento.                                                          |
@@ -77,7 +77,7 @@ O estudo utilizou **cinco modelos** do Hugging Face para ampliar a diversidade d
 Modelos utilizados:
 - **bart-large-cnn** – sumarização e auxílio na compreensão estrutural
 - **bart-large-mnli** – classificação e verificação de correspondência entre padrões
-- **Llama-3.2-1B-Instruct** – análise arquitetural orientada a prompts
+- **Llama-3.2-1B-Instruct** – análise orientada a prompts
 - **Qwen2.5-Coder-1.5B-Instruct** – excelente para análise de arquivos de código
 - **all-MiniLM-L6-v2** – geração de embeddings para similaridade e agrupamento
 
@@ -162,8 +162,7 @@ Ele contém:
 - Metodologia
 - Resultados e Análise
 - Resultados por Modelo
-- Discussões
-- Conclusões
+- Conclusão
 
 ---
 
