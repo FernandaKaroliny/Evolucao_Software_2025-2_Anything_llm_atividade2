@@ -25,7 +25,7 @@ A equipe desenvolveu um pipeline automatizado capaz de:
 
 ---
 ## ▶️ Vídeo Da apresentação da equipe:
-- https://drive.google.com/drive/folders/1YRoKxZvqq5LRCoEJARy2PBDlkY1SYA0q?usp=sharing
+- https://drive.google.com/file/d/1ocqGqMzaQyyGRwSRy3SBynB4JIuCtiby/view?usp=sharing
 
 
 
