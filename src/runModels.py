@@ -45,6 +45,10 @@ MODEL_SCRIPTS = {
 
     "5": ("All-MiniLM-L6-v2",
           os.path.join(MODELOS_DIR, "all_minilm_l6_v2.py")),
+    
+    "6": ("paraphrase-MiniLM-L3-v2",
+          os.path.join(MODELOS_DIR, "paraphrase-minilm-l3-v2.py")),
+
 
     "0": ("Sair", None)
 }
