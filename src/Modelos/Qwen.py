@@ -15,7 +15,7 @@ if not torch.cuda.is_available():
 # CONFIGURAÇÃO DO MODELO
 # =========================
 
-model_id = "Qwen/Qwen2.5-Coder-7B-Instruct"
+model_id = "Qwen/Qwen2.5-Coder-3B-Instruct"
 
 print(f"Carregando {model_id}...")
 tokenizer = AutoTokenizer.from_pretrained(model_id)
@@ -32,9 +32,9 @@ model = AutoModelForCausalLM.from_pretrained(
 
 
 def inferir(texto):
-    instruction = '''Foram dados acima: Trecho do README sobre colaboração e estrutura
-                     de branches. Baseando-se nesses, defina qual é a estratégia de branch que está
-                     sendo utilizada.'''
+    instruction = '''Foram dados acima: Trecho do README sobre colaboração, estrutura
+                     de branches e estrutura de releases. Baseando-se nesses, defina:
+                     estratégia de branching e estratégia de releases utilizadas.'''
 
     messages = [
         {"role": "system", "content": "Você é especialista em engenharia de software."},
