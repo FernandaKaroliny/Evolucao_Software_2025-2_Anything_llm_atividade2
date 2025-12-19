@@ -14,7 +14,7 @@ Abaixo está a tabela detalhada de contribuição dos integrantes:
 | **Vinícius Azevedo Peroba**            | 201900076892 | Pesquisa, análise do projeto, apuração dos testes, edição do documento.                                     |
 | **Wendel Alexsander Gomes Menezes**    | 202300027740 | Pesquisa, análise do projeto, apuração dos testes, edição do documento.                                     |
 
-Este repositório contém a implementação completa da Atividade 1 de Engenharia de Software II (2025.2), cujo objetivo é **analisar padrões arquiteturais ao longo da evolução de um projeto real do GitHub utilizando modelos de linguagem (LLMs)**.
+Este repositório contém a implementação completa da Atividade 2 de Engenharia de Software II (2025.2), cujo objetivo é **analisar padrões arquiteturais ao longo da evolução de um projeto real do GitHub utilizando modelos de linguagem (LLMs)**.
 
 A equipe desenvolveu um pipeline automatizado capaz de:
 - Baixar e analisar um repositório alvo;
@@ -47,7 +47,7 @@ O projeto foi escolhido por apresentar:
 ## 📌 3. Estrutura do Repositório
 ```
 ├── Data/ # Scripts dos modelos indivídualizados no google colabutilizados no Colab
-│   ├── Modelo_bart_large_cnn_e_bart_large_mnli.ipynb
+│   ├── bart_mnli+entrada_reduzida.ipynb
 │   ├── bart_karge_mnli.ipynb
 │   └── modelo_Qwen.ipynb
 │
@@ -58,7 +58,7 @@ O projeto foi escolhido por apresentar:
 │   └── RunModels.py     # Execução central dos modelos
 │
 ├── resultados/          # Resultados gerados pelos modelos
-│   ├── BART_CNN+MNLI.txt
+│   ├── bart_mnli+entrada_reduzida.txt
 │   ├── Bart_MNLI.txt
 │   ├── Llama.txt
 │   ├── Qwen.txt
@@ -75,7 +75,6 @@ O projeto foi escolhido por apresentar:
 O estudo utilizou **cinco modelos** do Hugging Face para ampliar a diversidade de análise:
 
 Modelos utilizados:
-- **bart-large-cnn** – sumarização e auxílio na compreensão estrutural
 - **bart-large-mnli** – classificação e verificação de correspondência entre padrões
 - **Llama-3.2-1B-Instruct** – análise orientada a prompts
 - **Qwen2.5-Coder-1.5B-Instruct** – excelente para análise de arquivos de código
