@@ -1,22 +1,8 @@
-# Padrões Arquiteturais Identificados
+# Estratégia de Releases e Fluxo de Trabalho Identificados
 
-## Data Pipeline
-Probabilidade média: 27.5%
-Fontes: entrada1.txt
+=== Estratégia de Releases sugerida ===
+Rapid Release (entregas frequentes de patches e features)
 
-## Microservices
-Probabilidade média: 21.3%
-Fontes: entrada1.txt
-
-## Repository Pattern
-Probabilidade média: 17.2%
-Fontes: entrada1.txt
-
-## Vector Database Architecture
-Probabilidade média: 15.8%
-Fontes: entrada1.txt
-
-## Layered Architecture
-Probabilidade média: 15.6%
-Fontes: entrada1.txt
+=== Modelo de Fluxo de Trabalho sugerido ===
+Gitflow simplificado (master para produção, branches curtas para features e bugs)
 
