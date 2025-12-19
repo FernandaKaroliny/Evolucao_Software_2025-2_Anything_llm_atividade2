@@ -95,27 +95,21 @@ v1.1.0 – Jul 31, 2024
 v1.0.0 – Jul 26, 2024
 
 📦 ESTRATÉGIA DE RELEASE
-Resultado principal: Rolling Release (updates are deployed incrementally across servers or users without downtime, replacing old versions progressively)
-Confiança: 21.84%
+Resultado principal: Long-Term Support - LTS (specific software versions are designated for long-term maintenance, receiving bug fixes and security updates for an extended period while new features are developed in newer versions)
+Confiança: 49.44%
 
 Ranking completo:
- 1º Rolling Release (updates are deployed incrementally across servers or users without downtime, replacing old versions progressively) — 21.8%
- 2º Scheduled Releases (software is released at predefined time intervals, such as weekly, monthly, or at fixed calendar dates) — 15.6%
- 3º Big Bang Release (a large set of features is released simultaneously in a single major deployment event) — 15.5%
- 4º Canary Release (a new version is gradually rolled out to a small subset of users to monitor behavior before full deployment) — 13.1%
- 5º Continuous Deployment (every code change that passes automated tests is automatically deployed to production without manual approval) — 12.2%
- 6º Blue-Green Deployment (two identical production environments are maintained, allowing instant traffic switch between old and new versions) — 12.0%
- 7º Continuous Delivery (code is continuously integrated and tested, remaining ready for deployment at any time, but releases require a manual decision) — 9.8%
+ 1º Long-Term Support - LTS (specific software versions are designated for long-term maintenance, receiving bug fixes and security updates for an extended period while new features are developed in newer versions) — 49.4%
+ 2º Rapid Releases (software is released very frequently, often in short cycles, enabling fast delivery of new features and fixes with minimal delay between versions) — 34.3%
+ 3º Release Train (software releases follow a fixed and regular schedule, where features that are ready board the next scheduled release, while unfinished features wait for the following train) — 16.3%
 
 🔁 FLUXO DE TRABALHO
 Resultado principal: GitHub Flow (a lightweight workflow based on a single main branch with short-lived feature branches and pull requests)
-Confiança: 24.01%
+Confiança: 41.20%
 
 Ranking completo:
- 1º GitHub Flow (a lightweight workflow based on a single main branch with short-lived feature branches and pull requests) — 24.0%
- 2º Feature Branch Workflow (each new feature or change is developed in an isolated branch and merged into the main branch after review) — 21.0%
- 3º GitLab Flow (extends GitHub Flow by introducing environment-based or release-based branching strategies) — 20.7%
- 4º Git Flow (uses multiple long-lived branches such as main, develop, feature, release, and hotfix to manage parallel development and releases) — 18.9%
- 5º Trunk-Based Development (developers commit small, frequent changes directly to a shared main branch, relying on feature flags and continuous integration) — 15.4%
+ 1º GitHub Flow (a lightweight workflow based on a single main branch with short-lived feature branches and pull requests) — 41.2%
+ 2º Git Flow (uses multiple long-lived branches such as main, develop, feature, release, and hotfix to manage parallel development and releases) — 32.4%
+ 3º Trunk-Based Development (developers commit small, frequent changes directly to a shared main branch, relying on feature flags and continuous integration) — 26.4%
 
-⏱️ Tempo total: 188.66 segundos
+⏱️ Tempo total: 2.15 segundos
